@@ -38,8 +38,8 @@
 
 	wp_head();
 
-	if ( file_exists( get_template_directory() . '/planet-legal.css' ) && file_get_contents( get_template_directory() . '/planet-legal.css' ) != '' ) {
-		echo '<link href="' . get_template_directory_uri() . '/planet-legal.css" rel="stylesheet" type="text/css" />';
+	if ( file_exists( get_template_directory() . '/planet_legal.css' ) && file_get_contents( get_template_directory() . '/planet_legal.css' ) != '' ) {
+		echo '<link href="' . get_template_directory_uri() . '/planet_legal.css" rel="stylesheet" type="text/css" />';
 	}
 	do_action( 'supreme_enqueue_script' );
 	?>

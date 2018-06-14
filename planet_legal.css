@@ -482,9 +482,9 @@ padding-bottom:0;
 
 /* 606lk */
 
-/* #hamburger-container{
+#hamburger-container{
    display:none;
-} */
+}
 
 @media only screen and(max-width: 600px)
 {

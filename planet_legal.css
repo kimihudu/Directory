@@ -1043,13 +1043,10 @@ button.title1
   text-shadow:2px 2px rgba(189,189,189,1);
 
 }
-<<<<<<< HEAD
 
 /* 614lk */
-=======
-/* 614jk */
 .sec_content
-{  
+{
     left:2%;
     margin-top:4em;
     line-height:1em;
@@ -1059,4 +1056,7 @@ button.title1
 {
     font-size:2em;
 }
->>>>>>> 01518ce1ecf38d309c9296c4a1e641ea56a1068f
+
+.sub-hamburger > li > a > img{
+    margin: 1px;
+}

@@ -1081,14 +1081,16 @@ button.title1
 
 .container > button{
     float: right;
+    margin-top:3em;
 }
 
 #hamburger{
     display: none;
 }
+
 .container.open{
 
-    height: 100vh;
+    height: cal(100vh - 170px);
     min-height: 820px;
 }
 /* child for hamburger icon desktop*/

@@ -1079,6 +1079,12 @@ button.title1
 }
 
 
+
+.container{
+
+    height: 100vh;
+    min-height: 820px;
+}
 /* child for hamburger icon desktop*/
 .hamburger_icon{
     width: 30px;

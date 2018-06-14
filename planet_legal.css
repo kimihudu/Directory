@@ -1015,7 +1015,6 @@ button.title1
    display: block;
    text-align: justify;
    padding-right: 26%;
-   color: red;
 
 }
 
@@ -1028,6 +1027,11 @@ button.title1
 
 #menu-primary-items > li > a {
    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.floating-menu{
+
+    display: none;
 }
 
 /* 613jk */

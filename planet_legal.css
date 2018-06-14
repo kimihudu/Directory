@@ -1273,6 +1273,6 @@ button.title1
    padding: 0.5em;
 }
 
-#mega-hamburger.open > ul:nth-child(1){
+#mega-hamburger.open > ul{
     display: none;
 }

@@ -1,0 +1,693 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,700);
+@import url(http://fonts.googleapis.com/css?family=Signika:300,400,500,600,700,800,900);
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: \\\'stroke7pixeden\\\';
+	src:url(\\\'http://dev.planetlegal.ca/wp-content/themes/Directory/fonts/stroke7pixeden/stroke7pixeden.eot?u58ytb\\\');
+	src:url(\\\'http://dev.planetlegal.ca/wp-content/themes/Directory/fonts/stroke7pixeden/stroke7pixeden.eot?#iefixu58ytb\\\') format(\\\'embedded-opentype\\\'),
+		url(\\\'http://dev.planetlegal.ca/wp-content/themes/Directory/fonts/stroke7pixeden/stroke7pixeden.woff?u58ytb\\\') format(\\\'woff\\\'),
+		url(\\\'http://dev.planetlegal.ca/wp-content/themes/Directory/fonts/stroke7pixeden/stroke7pixeden.ttf?u58ytb\\\') format(\\\'truetype\\\'),
+		url(\\\'http://dev.planetlegal.ca/wp-content/themes/Directory/fonts/stroke7pixeden/stroke7pixeden.svg?u58ytb#stroke7pixeden\\\') format(\\\'svg\\\');
+}
+
+/* 2Temp removing facebook from listing output  */
+a#facebook {
+    display: none;
+}
+/* Change the color of the text for the index page in Lounge, Need, all listing plugin */
+body #loop_listing_archive .post .entry p, body #loop_listing_taxonomy .post .entry p, body #tmpl-search-results.list .hentry p, .entry-details p {
+color: #9E4040;
+}
+.menu li ul.sub-menu ul.sub-menu {
+background: #6fa4b3 !important;
+}
+
+div#ui-id-4 {
+font-family: Signika;
+font-size: 15px;
+text-align: justify;
+}
+
+div#ui-id-6 {
+font-family: Signika;
+font-size: 15px;
+text-align: justify;
+}
+
+div#ui-id-8 {
+font-family: Signika;
+font-size: 15px;
+text-align: justify;
+}
+
+/* OLD Prices table css*/
+/*
+div.ptp-bullet-item {
+background-color:#fff;
+text-align:center;
+font-size:1.4em;
+font-weight:normal;
+color:#333;
+border-bottom:dotted 1px #ddd;
+}*/
+
+/* FOR REMOVING ORGANIZATION FROM CS, LOUNGE, NEEDS */
+h2.fordirectory2 {
+    display: none;
+}
+/*div#rev_slider_1_2_forcefullwidth {
+display: none;
+}*/
+section#main {
+margin-top: 40px;
+}
+strong {
+font-weight: 100;
+}
+/* Sub home link */
+body{
+font-family: \\\'Signika\\\', \\\'Oxygen\\\', \\\'Raleway\\\',   Arial, sans-serif;
+}
+.singular-jobs .entry-header, .singular-jobs .post .entry-header {
+margin-bottom: 2px;
+}
+body h1 {
+font-size: 24px;
+font-weight: 900;
+}
+body.singular-event  .post .entry-header, .post .entry-header {
+margin-top: 30px;
+margin-bottom: 0px;
+}
+/*
+.post .entry-header p {
+background: black;
+/*color: rgb(235, 198, 71);*/
+color: white;
+padding-left: 5px;
+}*/
+label {
+font-size: 25px;
+}
+/*Listing Directory Details*/
+body.tevolution-directory #listing_description .listing_content {
+width: 100%;
+text-align: justify;
+padding: 10px 40px 10px 40px;
+}
+/*removing image from details on lounge*/
+.flex-viewport {
+display: none;
+}
+/* LOUNGE DETAILS LABEL */
+.directory-single-page .hentry .entry-header-title .entry-header-custom-wrap p {
+color: black;
+font-weight: 700;
+font-size: 14px;
+margin-right: 5px;
+}
+
+.tevolution_custom_field.listing_custom_field {
+text-align: justify;
+}
+/* Added by TE for accordion*/
+.fordirectory {
+    background-color: #000;
+    color: #fff;
+    text-align: left;
+    outline: none;
+    font-size: 16px;
+    border-radius: 3px;
+    padding-left: 3px;
+}
+/* JOB PRICES*/
+.job-pre-lounch-Price {
+font-size: 28px;
+color: red;
+font-weight: 700;
+}
+.job-pre-lounch-Price-exp {
+font-size: 20px;
+color: red;
+font-weight: 700;
+}
+/* JOB DETAILS LABEL */
+.directory-single-paage .hentry .entry-header-title .entry-header-custom-wrap p label, p.custom_header_field label, .listing_custom_field p  label {
+color: black;
+font-weight: 700;
+font-size: 14px;
+margin-right: 5px;
+/*margin-bottom: 10px;*/
+} 
+p.custom_header_field {
+color: #9E4040;
+font-size: 14px;
+font-weight: 700;
+display:inline-block;
+}
+/*
+p.custom_header_field.experience_level {
+color: #9E4040;
+font-size: 25px;
+font-weight: 900;
+display:inline-block;
+}*/
+/*
+ p.custom_header_field.practice_area  {
+color: #9E4040;
+font-size: 25px;
+font-weight: 900;
+display:inline-block;
+margin-right: 4px
+}*/
+/*
+p.custom_header_field.job_type   {
+color: #9E4040;
+font-size: 25px;
+font-weight: 900;
+display:inline-block;
+}
+*/
+h1.loop-title {
+font-weight: 300;
+}
+/* remove other information title for custom fields*/
+h2.custom_field_headding {
+    display: none;
+}
+/* FOR JOB DETAIL PAGE CHANGES*/
+/*
+body.tevolution-jobs-manager.jobs-single-page .entry-content h2, .singular-jobs .entry-content h2, .preview_submit_from_data .entry-content h2, .singular-jobs .realated_post h3
+*/
+
+.singular-jobs .entry-content h2 {
+color: #FFFFFF;
+/*border-bottom: black;*/
+border-bottom: 0px;
+padding-bottom:  0px;
+margin-bottom: 7px;
+margin-top: 7px;
+margin-left: 6px;
+line-height: 4px;
+color: white;
+font-size: 12px;
+font-weight: 900;
+}
+/*.singular-jobs .entry-content .hentry .entry-header-title .entry-header-custom-wrap p span {
+color: #9E4040;
+font-size: 25px;
+font-weight: 900;
+display:inline-block;
+}*/
+/*
+body.tevolution-jobs-manager.jobs-single-page .entry-content h2, .singular-jobs .entry-content h2, .preview_submit_from_data .entry-content h2, .singular-jobs .realated_post h3 {
+color: #FFFFFF;
+border-bottom: black;
+border-bottom: 0px;
+padding-bottom:  0px
+margin-bottom: 1px;
+margin-top: 6px;
+margin-left: 6px;
+line-height: 4px;
+color: white;
+font-size: 12px;
+font-weight: 900;
+}
+*/
+/* FOR EVENT DETAIL PAGE CHANGES*/
+/*body.tevolution-event-manager.event-single-page .entry-content h2, .single-property .entry-content h2, .singular-property .entry-content h2, .preview_submit_from_data .entry-content h2*/
+body.tevolution-event-manager.event-single-page .entry-content h2 {
+color: #FF0000;
+border-bottom: black;
+/*border-bottom: black;*/
+border-bottom: 0px;
+padding-bottom:  0px;
+margin-bottom: 7px;
+margin-top: 7px;
+margin-left: 6px;
+line-height: 4px;
+color: white;
+font-size: 12px;
+font-weight: 900;
+}
+.event-single-page .hentry .entry-header-title .entry-header-custom-wrap p label  {
+color: black;
+font-weight: 700;
+font-size: 14px;
+} 
+
+/* Event header section spacing */
+/*.event .entry-header-custom-wrap p{min-height: 30px;}  changed by TE from 60 to 30 {min-height: 60px;} this is from sirectory-accesManager CSS */
+.event-single-page .hentry .entry-header-title .entry-header-custom-wrap p {
+min-height: 30px;
+color: #9E4040;
+font-size: 14px;
+font-weight: 900;
+margin-top: 5px;
+}
+/* tile space*/
+.event-single-page .hentry .entry-header-title .entry-header-custom-wrap, .preview_submit_from_data .hentry .entry-header-title .entry-header-custom-wrap {
+margin-top: 5px;
+}
+
+.singular-jobs .event-single-page .hentry .entry-header-title .entry-header-custom-wrap p span {
+color: #9E4040;
+font-size: 14px;
+font-weight: 900;
+display:inline-block;
+}
+
+.event-single-page .hentry .entry-header-title .entry-header-custom-wrap p label {
+font-size: 14px;
+font-weight: 700;
+margin-right: 2px;
+}
+
+.event-single-page .hentry .entry-header-title .entry-header-custom-wrap .entry-header-custom-left, .preview_submit_from_data .hentry .entry-header-title .entry-header-custom-wrap .entry-header-custom-left {
+display: inline-block;
+}
+
+
+.entry-content.frontend-entry-content {
+text-align: justify;
+/*padding: 10px 45px 10px 45px;*/
+width: 100%;
+}
+
+/* removing about org description from event */
+.abput-event-organizer {
+display: none;
+}
+
+/*padding for about description of event */
+.event-organizer-right {
+text-align: justify;
+padding: 10px 80px 10px 80px;
+width: 100%;
+}
+
+.event-organizer .event-organizer-right {
+width: 100%;
+}
+
+.event-organizer .event-organizer-right label {
+font-size: 14px;
+font-weight: 900;
+width: 10%;
+line-height: 18px;
+}
+
+/*.tabs-content {
+display: none;
+}*/
+
+/* remove tab from top */
+ul.tabs  {
+/*display: none;*/
+}
+/* remove attending php  */
+.attending_event.clearfix {
+display: none;
+}
+/* EVENT INDEX */
+.list .entry h2.entry-title {
+font-size: 30px;
+}
+
+div#overview {
+padding: 10px 80px 10px 80px;
+width: 100%;
+}
+.singular-jobs .entry-content {
+text-align: justify;
+/*padding: 20px 40px 20px 40px;*/
+}
+.home_page_banner .widget {
+padding:0 0 0px;
+}
+.vc_column-inner {
+
+}
+
+/*widget changes */
+.widget h3, .widget-search .widget-title, .widget-title, .widget.title {
+border-top:4px solid #e0e0e0\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\0/;
+/* border-top:4px solid rgba(0, 0, 0, .13); */
+border-bottom:1px solid #e0e0e0\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\0/;
+/* border-bottom:1px solid rgba(0, 0, 0, .13); */
+font-size: 13px;
+font-weight: 900;
+color: #ffffff;
+line-height: 16px;
+padding: 0px 0px 0px 4px;/line-height:;
+margin-bottom: 0px;
+margin-right: 4px;
+}
+.sidebar.large-3 {
+margin-top: 0px;
+}
+
+
+
+
+/*.sidebar.large-3 {
+background-color: #cccccc;
+display: none;
+}*/
+/*
+div#templatic_advanced_search-23 {
+    display: none;
+}
+
+div#templatic_advanced_search-30 {
+    display: none;
+}
+
+div#templatic_advanced_search-27 {
+    display: none;
+}
+*/
+.form_front_style {center}
+/*.header-widget-wrap #sidebar-header form{
+display:none;
+}*/
+.sl-topAd{
+height:110px;
+/*orginal black by AA oct 18*/
+background-color: #d9d9d9;
+disply: inline-block;
+background-image: url(\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"http://dev.planetlegal.ca/wp-content/uploads/2017/06/your_ad.jpg\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+ background-repeat: no-repeat;
+ background-position: center;
+}
+
+/* Footer */
+.footer-content {
+    width: 100%;
+    text-align: center;
+}
+/* Footer background changed to black from #0665bd #4E737D*/
+#footer .footer_bottom {
+background: #666666;
+}
+
+/*Navigation Bar*/
+.nav_bg .widget-nav-menu nav, div#menu-secondary .wrap, div#menu-secondary1 .wrap, div#menu-subsidiary .wrap{
+background-color: white;
+/*background-image: url(\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"http://dev.planetlegal.ca/wp-content/themes/Directory/images/top-menu-bk-3.jpg\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");*/
+background-repeat: no-repeat;
+height: 45px;
+padding: 0px 0px;
+    border-radius: 5px;
+}
+
+.header-widget-wrap{
+display:none;
+}
+
+/* main menu styling - beside logo - Rachel */
+
+#nav-secondary{
+width:85%;
+float:right;
+    margin-top: -85px;
+}
+
+/* Navigation Sub Menu*/
+.nav_bg .widget-nav-menu ul ul, div#menu-secondary .menu ul ul, div#menu-secondary1 .menu ul ul, div#menu-subsidiary .menu ul ul { 
+width:200px!important; 
+/*background-color:#0665bd*/
+background-color:#fbd06f;
+}
+
+div#menu-secondary .menu li a, div#menu-secondary1 .menu li a, div#menu-subsidiary .menu li a {
+    font-size: 16px;
+    color: black;
+    font-weight: 700;
+    padding: 18px 15px;
+}
+
+.sub-menu li a{
+color:white;
+}
+
+body div#menu-secondary .menu li a:hover{
+color:black;
+}
+
+
+div#menu-secondary .menu .current-menu-parent > a{
+color: black;
+}
+
+/*Client Lounge
+div.vc_empty_space.biz-space-after-sub {
+height: 20px;
+}*/
+.menu-item, .menu-item-type-custom, .menu-item-object-custom, .menu-item-5674 li{
+display:none;
+}
+.form_front_style{
+background-image: url(\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"http://dev.planetlegal.ca/wp-content/themes/Directory/images/background-img3.jpg\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+}
+.flex-direction-nav .flex-next{
+display:none;
+}
+.flex-direction-nav li a i{
+display: none;
+}
+#searchform input[type=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"submit\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"] {
+/*background: blue; - MK */
+background: #9E4040;
+    border-radius: 5px;
+/* other options AF1504; B35152; */
+}
+.pl-hirer{
+
+width: 100%;
+margin-bottom: 10px;
+}
+
+.pl-hirer-left{
+float:left;
+font-size:3em;
+/*color: #FFD700;*/
+color: #000000;
+width:33%;
+padding-top: 80px;
+font-weight:500;
+text-align: center;
+}
+.pl-hirer-center{
+display: inline-block;
+font-size:3em;
+/*color: #FFD700;*/
+color: #000000;
+width:34%;
+padding-top: 80px;
+text-align: center;
+}
+
+.pl-hirer-right{
+float:right;
+font-size:3em;
+/*color: #FFD700;*/
+color: #000000;
+width:33%;
+padding-top: 80px;
+text-align: center;
+}
+.hirer-button{
+    background-color: #4169E1; /* Green #B8860B*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 35px  500px;
+    cursor: pointer;
+    left: 50%;
+}
+.hirer-button a{
+color:white;
+}
+.pl-search{
+background-image: url(\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"http://dev.planetlegal.ca/wp-content/themes/Directory/images/background-img.jpg\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");/*
+height: 200px;
+background-color:#B0E0E6;
+text-align: center;
+margin-bottom: 10px;
+font-size: 35px;
+font-style: bold;
+color: white;
+line-height: 200px;
+}
+.pl-search.button{
+vertical-align:middle;
+}
+
+
+
+
+.pl-bottom-left{
+float:left;
+height:10px;
+background-color: #FFD700;
+font-size:3em;
+color:#FFD700;
+width:24%;
+margin: 5px 3px 0px 0px;
+text-align: center;
+}
+
+.pl-bottom-right{
+float:right;
+font-size:3em;
+color: #FFD700;
+width:25%;
+margin: 5px 0px 0px 3px;
+text-align: center;
+height:10px;
+background-color: #FFD700;
+}
+
+.jb-step1:before {
+    content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\25AE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; <--- this is your text. You can also use UTF-8 character codes as I do here -->
+    font-family: FontAwesome;
+    left:-5px;
+    position:absolute;
+    top:0;
+ }
+
+/* Icons */
+.icon::before {
+	z-index: 10;
+	display: block;
+	margin: 0 0.2em 0 0;
+	vertical-align: top;
+	text-transform: none;
+	font-weight: normal;
+	font-variant: normal;
+	font-size: 2em;
+	font-family: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'stroke7pixeden\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\';
+	line-height: 1;
+	speak: none;
+	-webkit-backface-visibility: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-upload::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e68a\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-tools::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e60a\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-plane::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e625\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-joy::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e6a4\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-plug::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e69a\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-home::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e648\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-gift::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e652\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-display::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e65e\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-date::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e660\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-config::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e666\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-coffee::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e669\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-camera::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e66f\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+.icon-box::before {
+	content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e674\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
+}
+
+/*.form_row, clearfix, search_keyword{
+width: 30%;
+background-color: black;
+display: table-row-group;
+float:left;
+}*/
+#searchform {
+width: 100%;
+}
+.dropzone, form_front_style{
+background-image:none;
+
+}
+
+#post-listing.accordion{
+width:100%;
+/*padding: 5px;*/
+
+}
+.button, uploadfilebutton, a.button, button, input[type=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"button\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"], input[type=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"reset\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"], input[type=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"submit\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"] {
+vertical-align: middle;
+background: #9E4040;
+color:black;
+}
+.button:hover, .uploadfilebutton:hover, a.button:hover, button:hover, input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover {
+vertical-align: middle;
+background: #0165BD;
+color:white;
+}
+a.button.apply-main-button {
+background: #9E4040;
+}
+a.button.apply-main-button:hover {
+background: #0165DB;
+}
+/*CSS For About Organization*/
+.loung-about {
+font-weight: 700;
+font-size: 18px;
+color: red;
+}
+
+.listing_custom_field p  label {
+display: none;
+}
+/*Price Packages Table*/
+.byline {
+    display: none;
+}
+
+.events_pr_area {
+    /* font-family: Signika; */
+    color: #6666cc;
+    font-family: Signika;
+    font-size: 15px;
+    text-align: justify;
+    font-weight: 900;
+    background-color: #fbd06f;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+/* RACHEL */
+
+#footer .footer_bottom {
+    background: #6fa4b3;
+}
+
+#custom_html-3{
+width:100%;
+}
+

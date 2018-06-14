@@ -1,0 +1,40 @@
+body,
+.map_full_width,
+body #main > .wrap.row,
+#header, .sidebar-after-header, .sidebar-subsidiary, div#menu-subsidiary, body .nav_bg .widget-nav-menu, .widget.templatic_slider, #sidebar-subsidiary, #sidebar-subsidiary-2c, #sidebar-subsidiary-3c, .sidebar-after-header, .sidebar-subsidiary, .footer_top .footer-wrap, .home .map_fixed_width,
+.home .map_full_width,
+body .event_manager_tab ul.event_type li a.active, .wrap404,.wordpress .tabs dd.active a, .wordpress .tabs .tab-title.active a {background-color:#f1f1f1;}
+
+body #header{background-color:#f1f1f1;}
+body .footer_top .footer-wrap.row,body.tevolution-event-manager .ui-widget-header .ui-state-active a, body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited,
+.author_custom_post_wrapper ul li a.nav-author-post-tab-active,
+body.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, 
+body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,	
+body.woocommerce div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,
+.tab-bar-section.middle,
+.tab-bar, .d_location_type_navigation {background:#f1f1f1!important;}
+
+@media screen and (max-width:1200px){  
+ .toggle_handler #directorytab {background:#f1f1f1!important;}
+}
+
+a.button:hover, input[type="reset"]:hover, input[type="submit"]:hover, input[type="button"]:hover, a.button:hover, .button:hover, .uploadfilebutton:hover, .upload:hover, body.woocommerce a.button, body.woocommerce button.button, body.woocommerce input.button, body.woocommerce #respond input#submit, body.woocommerce #content input.button, body.woocommerce-page a.button, body.woocommerce-page button.button, body.woocommerce-page input.button, body.woocommerce-page #respond input#submit, body.woocommerce-page #content input.button, #searchform input[type="submit"], body.woocommerce .widget_layered_nav_filters ul li a, body.woocommerce-page .widget_layered_nav_filters ul li a, div.woocommerce form.track_order input.button, body.woocommerce a.button.alt, body.woocommerce button.button.alt, body.woocommerce input.button.alt, body.woocommerce #respond input#submit.alt, body.woocommerce #content input.button.alt, body.woocommerce-page a.button.alt, body.woocommerce-page button.button.alt, body.woocommerce-page input.button.alt, body.woocommerce-page #respond input#submit.alt, body.woocommerce-page #content input.button.alt,
+body .mega-menu ul.mega li:hover a, body .mega-menu ul.mega li a:hover, body .mega-menu ul.mega li.current-menu-item a, body .mega-menu ul.mega li.current-page-item a,
+body .mega-menu ul.mega li .sub-container.non-mega .sub a:hover, body .mega-menu ul.mega li .sub-container.non-mega li a:hover, body .mega-menu ul.mega li .sub-container.non-mega li.current-menu-item a, body .mega-menu ul.mega.sub li.mega-hdr li a:hover, body .mega-menu ul.mega li .sub li.mega-hdr a.mega-hdr-a:hover, #footer .footer_bottom, body.singular #content .claim-post-wraper ul li a:hover, body.tevolution-event-manager .get_direction .b_getdirection,
+body #loop_event_taxonomy.list .post .entry .date, body #loop_event_archive.list .post .entry .date, body.woocommerce nav.woocommerce-pagination ul li a:hover, body.woocommerce-page nav.woocommerce-pagination ul li a:hover, body.woocommerce #content nav.woocommerce-pagination ul li a:hover, body.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, body.woocommerce nav.woocommerce-pagination ul li span.current, body.woocommerce-pagenav.woocommerce-pagination ul li span.current, body.woocommerce #content nav.woocommerce-pagination ul li span.current, body.woocommerce-page #content nav.woocommerce-pagination ul li span.current, body div.product form.cart .button, body #content div.product form.cart .button, body.woocommerce .quantity .plus, body.woocommerce-page .quantity .plus, body.woocommerce #content .quantity .plus, body.woocommerce-page #content .quantity .plus, body.woocommerce .quantity .minus, body.woocommerce-page .quantity .minus, body.woocommerce #content .quantity .minus, body.woocommerce-page #content .quantity .minus,
+body.woocommerce a.button.alt:hover, body.woocommerce-page a.button.alt:hover, body.woocommerce button.button.alt:hover, body.woocommerce-page button.button.alt:hover, body.woocommerce input.button.alt:hover, body.woocommerce-page input.button.alt:hover, body.woocommerce #respond input#submit.alt:hover, body.woocommerce-page #respond input#submit.alt:hover, body.woocommerce #content input.button.alt:hover, body.woocommerce-page #content input.button.alt:hover, article.event .entry-header span.date, .widget #wp-calendar caption, .widget #wp-calendar th, .uploadfilebutton:hover, body .secondary_btn:hover, body .ui-datepicker-trigger, body .ui-datepicker-trigger:hover,
+.comment-pagination .page-numbers:hover, .loop-nav span.next:hover, .loop-nav span.previous:hover, .pagination .page-numbers:hover, body .pos_navigation .post_left a:hover, body .pos_navigation .post_right a:hover,
+.comment-pagination .page-numbers.current, .loop-nav span.next.current, .loop-nav span.previous.current, .pagination .page-numbers.current, body .pos_navigation .post_left a.current, body .pos_navigation .post_right a.current
+{color: #f1f1f1;}
+   
+body .event_manager_tab ul.event_type li a.active,
+body.tevolution-event-manager .ui-widget-header .ui-state-active a, body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited,
+body.tevolution-directory .ui-widget-header .ui-state-active a, body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited
+{border-bottom-color: #f1f1f1}
+
+body.woocommerce div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+#tabs ul li.ui-tabs-active a,
+body.singular-property #tabs ul.ui-tabs-nav li.ui-tabs-active a,
+body .author_custom_post_wrapper ul li a.nav-author-post-tab-active {border-bottom-color: #f1f1f1;!important}
+
+body .secondary_btn:hover, .comment-pagination .page-numbers:hover strong, strong.prev:hover, strong.next:hover, .loop-nav span.next:hover, .loop-nav span.previous:hover, .pagination .page-numbers:hover strong, body .pos_navigation .post_left a:hover, body .pos_navigation .post_right a:hover, a.current.page-numbers, a.page-numbers[title~="Last"]:hover, a.page-numbers[title~="First"]:hover {  color: #f1f1f1;!important}

@@ -1,0 +1,3224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Directory\n"
+"POT-Creation-Date: 2017-05-29 17:34+0530\n"
+"PO-Revision-Date: 2017-05-29 17:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: Templatic <testtemplatic@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:32
+msgid "Sorry, The page you're looking for cannot be found!"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"I can help you find the page you want to see, just help me with a few clicks "
+"please."
+msgstr ""
+
+#: 404.php:34
+msgid "I recommend you "
+msgstr ""
+
+#: 404.php:36
+msgid "go to home"
+msgstr ""
+
+#: 404.php:38
+msgid " page or simply search what you want to see below"
+msgstr ""
+
+#: 404.php:68
+msgid " Categories"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:254
+#: Tevolution-Directory/templates/archive-listing.php:139
+#: Tevolution-Directory/templates/mobile-listing.php:159
+#: Tevolution-Directory/templates/taxonomy-listingcategory.php:143
+#: Tevolution-Directory/templates/taxonomy-listingtags.php:143
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:487
+msgid "(Sample csv file)"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:910
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:125
+msgid "Phone"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:916
+msgid "Profile"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:919
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1284
+msgid "Total Submissions"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-functions.php:926
+#: languages/templatic-front-end-string.php:172
+msgid "Send inquiry"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-listing-functions.php:132
+#: content-blog.php:48 content-blog.php:94
+msgid "Featured"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-listing-functions.php:219
+msgid "twitter"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-listing-functions.php:224
+msgid "facebook"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-listing-functions.php:229
+msgid "Google+"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-listing-functions.php:351
+#: Tevolution-LocationManager/functions/map/map-shortcodes/map-shortcodes.php:106
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:2993
+msgid "Pinpoint"
+msgstr ""
+
+#: Tevolution-Directory/functions/directory-single-functions.php:506
+msgid "Related Listings"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:29
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:60
+msgid "By car"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:30
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:61
+msgid "By public transit"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:31
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:62
+msgid "By Bicycling"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:32
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:63
+msgid "By Walking"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:35
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:66
+msgid "Metric"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:36
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:67
+msgid "Imperial"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:39
+#: Tevolution-Directory/google-maps/google_map_detail.php:58
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:52
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:89
+msgid "Enter Location"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:41
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:54
+msgid "Get Directions"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:42
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:55
+msgid "View Large Map"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:60
+msgid "Please enter your address to get the direction map."
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:86
+msgid "Directions failed: "
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:107
+msgid "Unsupported travel mode."
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:189
+msgid "Street View data not found for this location."
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_map_detail.php:214
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:422
+msgid "View Larger Map"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:57
+msgid "Enable"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:70
+msgid "Click"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:284
+msgid "No Records Found"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:286
+msgid ""
+"Sorry, no records were found. Please adjust your search criteria and try "
+"again."
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:293
+#: Tevolution-LocationManager/functions/google-map-widget.php:145
+#: Tevolution/tmplconnector/shortcodes/shortcode_taxonomies_map.php:150
+msgid "Title or Keyword"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:389
+msgid "Select Post:"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:403
+msgid "Categories:"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:1152
+#: Tevolution-LocationManager/functions/manage-locations.php:1864
+msgid "Categories"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/google_maps.php:1365
+msgid "Map Settings"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/widgets.php:123
+msgid "Sorry! There are no nearby results found"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/widgets.php:415
+#: Tevolution-Directory/google-maps/widgets.php:452
+msgid "View all &raquo;"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/widgets.php:594
+msgid "Enter your address"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/widgets.php:597
+msgid "Mile range:"
+msgstr ""
+
+#: Tevolution-Directory/google-maps/widgets.php:601
+msgid "Kilometer range:"
+msgstr ""
+
+#: Tevolution-Directory/listing/listing_auto_install_xml.php:1555
+msgid "Sample Data has been inserted."
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-search-form.php:15
+msgid "Search for"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-search-form.php:18
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:82
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:114
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:73
+#: Tevolution-Directory/templates/directory-listing-single-content.php:122
+#: Tevolution-Directory/templates/mobile-single-listing.php:322
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:161
+msgid "Overview"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:79
+#: Tevolution-Directory/templates/directory-listing-single-content.php:256
+#: Tevolution-Directory/templates/mobile-single-listing.php:338
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:164
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2412
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_preview_function.php:220
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:552
+msgid "Map"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:108
+#: Tevolution-Directory/templates/mobile-single-listing.php:409
+msgid "Events"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:226
+#: Tevolution-Directory/templates/mobile-single-listing.php:269
+#: Tevolution-Directory/templates/single-listing.php:331
+msgid "Upload Images"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:267
+msgid "Special Offer"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:284
+msgid "Video"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:289
+#: Tevolution-Directory/templates/mobile-single-listing.php:375
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:2168
+msgid "Edit Video"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:342
+#: languages/templatic-front-end-string.php:101
+msgid "Visited"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:344
+#: languages/templatic-front-end-string.php:102
+msgid "time"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:344
+#: languages/templatic-front-end-string.php:103
+msgid "times"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:346
+msgid "Visit today"
+msgstr ""
+
+#: Tevolution-Directory/templates/directory-listing-single-content.php:346
+#: languages/templatic-front-end-string.php:98
+#: languages/templatic-front-end-string.php:185
+msgid "Visits today"
+msgstr ""
+
+#: Tevolution-Directory/templates/listing-search.php:48
+msgid "Search Results for: "
+msgstr ""
+
+#: Tevolution-Directory/templates/listing-search.php:140
+msgid ""
+"Sorry! No results were found for the requested search. Try searching with "
+"some different keywords"
+msgstr ""
+
+#: Tevolution-Directory/templates/mobile-single-listing.php:93
+#: Tevolution-Directory/templates/single-listing.php:65
+msgid "Upload "
+msgstr ""
+
+#: Tevolution-Directory/templates/mobile-single-listing.php:129
+msgid "Call"
+msgstr ""
+
+#: Tevolution-Directory/templates/mobile-single-listing.php:135
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:132
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1140
+#: languages/templatic-front-end-string.php:7
+#: languages/templatic-front-end-string.php:268
+#: library/functions/widgets.php:4694
+msgid "Email"
+msgstr ""
+
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:102
+msgid "Logo"
+msgstr ""
+
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:118
+#: languages/templatic-front-end-string.php:8
+#: languages/templatic-front-end-string.php:278
+msgid "Website"
+msgstr ""
+
+#: Tevolution-Directory/templates/tevolution-single-listing-preview.php:129
+msgid "Time"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/google-map-widget.php:140
+msgid ""
+"Your selected category does not have any records at your current location."
+msgstr ""
+
+#: Tevolution-LocationManager/functions/location-functions.php:439
+msgid "Select a city"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:17
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:2118
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1191
+msgid "Country"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:23
+#: Tevolution-LocationManager/functions/widget_functions.php:87
+#: languages/templatic-front-end-string.php:243
+#: languages/templatic-front-end-string.php:244
+msgid "Select Country"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:29
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:2121
+msgid "State"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:35
+#: languages/templatic-front-end-string.php:245
+msgid "Select State"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:41
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:2124
+msgid "City"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:47
+#: languages/templatic-front-end-string.php:246
+msgid "Select City"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:148
+msgid "Loading..."
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:150
+msgid "Default City"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:573
+msgid "Multi City"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:1074
+#: Tevolution-LocationManager/functions/manage-function.php:1265
+msgid "My Nearest City"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:1211
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2416
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_preview_function.php:221
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:554
+#: languages/templatic-front-end-string.php:175
+msgid "Location"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-function.php:1390
+#: languages/templatic-front-end-string.php:254
+msgid "Please wait, We are taking you to your nearest city."
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-locations.php:254
+msgid "Location Tracking Method"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/manage-locations.php:310
+msgid ""
+"We Suggest you to deactivate the <span style=\"color:red;\">Tevolution-"
+"LocationManager</span> plugin instead of disabling all the post types, as "
+"there is not single feature work if you don&#39;t select any posttype."
+msgstr ""
+
+#: Tevolution-LocationManager/functions/map/locations-map.php:272
+msgid ""
+"Clicking the above \"Set Address on Map\" button, you can simply drag the "
+"pinpoint to locate the exact address on the map. "
+msgstr ""
+
+#: Tevolution-LocationManager/functions/map/map-shortcodes/city-map-shortcode.php:141
+msgid ""
+"Your selected category do not have any records yet at your current location."
+msgstr ""
+
+#: Tevolution-LocationManager/functions/widget_functions.php:101
+#: Tevolution-LocationManager/functions/widget_functions.php:216
+msgid "All Regions"
+msgstr ""
+
+#: Tevolution-LocationManager/functions/widget_functions.php:116
+#: Tevolution-LocationManager/functions/widget_functions.php:231
+#: Tevolution-LocationManager/functions/widget_functions.php:336
+msgid "All Cities"
+msgstr ""
+
+#: Tevolution/class-wp-list-table.php:297
+msgid "No items found. "
+msgstr ""
+
+#: Tevolution/class-wp-list-table.php:539
+msgid "Filter by date"
+msgstr ""
+
+#: Tevolution/class-wp-list-table.php:541
+msgid "All dates"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:115
+msgid "WordPress Environment"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:120
+msgid "Home URL"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:124
+msgid "Site URL"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:128
+msgid "WP Version"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:132
+msgid "WP Multisite"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:138
+msgid "WP Memory Limit"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:155
+msgid "WP Debug Mode"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:161
+msgid "Language"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:170
+msgid "Server Environment"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:175
+msgid "Server Info"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:179
+msgid "PHP Version"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:191
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:197
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:201
+msgid "PHP Time Limit"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:205
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:210
+msgid "MySQL Version"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:219
+msgid "Max Upload Size"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:223
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: Tevolution/classes/templconnector.class.php:239
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: Tevolution/templates/archive-tevolution.php:99
+#: Tevolution/templates/taxonomy-tevolution-tag.php:76
+#: Tevolution/templates/taxonomy-tevolution.php:81
+msgid "Apologies, no results were found matching this search criteria. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:602
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:866
+msgid "Your claim for this post has been sent successfully. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:714
+msgid "Claim For This"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:724
+msgid "Claim For This Listing"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:766
+msgid "Please contact your host provider. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/install.php:136
+msgid "View all claimed lIstings"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:28
+msgid "Verify ownership of"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:47
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:940
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:368
+msgid "Username"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:48
+msgid "Your Email"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:49
+msgid "Contact No"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:50
+msgid "Your Claim"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:50
+msgid ""
+"Hello, I would like to notify you that I am the owner of this listing. I "
+"would like to verify its authenticity. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:54
+#: Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:188
+msgid "Submit"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_custom_fuctions.php:1334
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:105
+#: Tevolution/tmplconnector/templatic-connector.php:870
+msgid "Upload Image"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_custom_fuctions.php:2209
+msgid "Dismiss"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:512
+msgid "Edit - "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:519
+msgid "Back to manage custom fields"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:767
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/category.php:65
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:1380
+#: Tevolution/tmplconnector/monetize/templatic-monetization/add_price_packages.php:147
+msgid "Select All"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:211
+msgid "Go back and edit"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2298
+msgid "Package Type"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2310
+#: languages/templatic-front-end-string.php:334
+msgid "Validity"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2310
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1702
+msgid "Days"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2318
+msgid "Number of Posts"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2334
+#: languages/templatic-front-end-string.php:335
+msgid "Recurring Charges"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2372
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:534
+msgid "Post Description"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2390
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:389
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:505
+msgid "Post Excerpt"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2600
+msgid ""
+"Safari will allow you to upload only one image, so we suggest you use some "
+"other browser."
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2742
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2766
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:2794
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:324
+msgid "Information"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3535
+msgid "Category: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3549
+#: languages/templatic-front-end-string.php:73
+msgid "Tags: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3563
+msgid "Author: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3579
+msgid "Min Price: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3595
+msgid "Max Price: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3643
+msgid "Country: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3657
+msgid "State: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3671
+msgid "City: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4009
+msgid "Charges: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4031
+#: languages/templatic-front-end-string.php:308
+msgid "Payment Method:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4094
+#: languages/templatic-front-end-string.php:194
+msgid "My Favorites"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4431
+#: Tevolution/tmplconnector/templatic-connector.php:923
+msgid "Share"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4663
+msgid "Tagged In"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:48
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:417
+msgid "Enter a location"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/google_map_detail.php:91
+msgid "Please enter your address to get the direction map. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:109
+msgid "Maximum upload file size: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:140
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:714
+msgid "Image can&rsquo;t be uploaded due to some error. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:146
+msgid "Your image size must be less then"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:146
+msgid "kilobytes"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:154
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:165
+msgid "You can upload maximum 10 images"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/install.php:983
+msgid "Tip: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/success.php:85
+#: Tevolution/tmplconnector/shortcodes/shortcode-init.php:470
+msgid "ERROR: Sorry, you are not allowed to view this post. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:619
+msgid "Please Select"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:651
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:834
+msgid "You can drag &amp; drop images from your computer to this box. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:652
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:835
+msgid "OR"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:664
+msgid "Upload File"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:733
+msgid "File Deleted"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:774
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:776
+#: languages/templatic-front-end-string.php:126
+msgid "Delete"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:984
+#: languages/templatic-front-end-string.php:282
+msgid "Select Category"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:990
+msgid "Select a category for your "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:1024
+msgid "In which category you'd like to publish this "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_fields/tevolution_custom_fields_functions.php:2547
+msgid "Accept Terms and Conditions. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:557
+msgid "Uncategorized"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:572
+msgid "No Tags"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:776
+#: languages/templatic-front-end-string.php:121
+msgid "Price"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:862
+msgid "A new post has been submitted on your site"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:932
+msgid "Details about the listing you have submitted on [#site_title#]"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1148
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1222
+msgid "Submission pending payment"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1355
+msgid "A New Upgrade Request"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1427
+msgid "Payment Pending For Upgrade Request: #[#post_id#]"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1499
+msgid "[#site_title#] Your new password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1573
+#: languages/templatic-front-end-string.php:27
+msgid "New Claim Submitted"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1645
+msgid "Listing expiration Notification"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1719
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:3071
+msgid "Payment Cancelled"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1791
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1864
+msgid "[#post_type#] ID #[#submition_Id#] has been updated"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:1938
+msgid "[#post_type#] renew of ID:#[#submition_Id#]"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:2010
+msgid "Listing payment not confirmed"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:383
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:388
+msgid "LIST VIEW"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:384
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:390
+msgid "MAP"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:387
+msgid "GRID VIEW"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:419
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:222
+msgid "Sort By"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:423
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:224
+msgid "Alphabetical"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:428
+msgid "Title Ascending"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:433
+msgid "Title Descending"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:438
+msgid "Publish Date Ascending"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:443
+msgid "Publish Date Descending"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:448
+#: Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:290
+#: languages/templatic-front-end-string.php:43
+msgid "Reviews"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:453
+msgid "Rating"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:458
+msgid "Random"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:492
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:223
+msgid "All"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:229
+#: languages/templatic-front-end-string.php:202
+msgid "Description"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:622
+msgid "Facebook Share. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:631
+#: Tevolution/tmplconnector/templatic-connector.php:922
+#: library/functions/functions.php:1698
+msgid "Tweet"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:638
+#: library/functions/functions.php:1715
+msgid "Pin It"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/detail_page_functions.php:826
+msgid "Related"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:71
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:196
+#: library/functions/widgets.php:4480
+msgid "Please contact your host provider."
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:159
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:162
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:268
+msgid "Email sent successfully"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:526
+msgid "Save All Settings"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:2673
+msgid "Visit Website"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:2676
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:67
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1099
+#: loop-meta.php:111
+msgid "Facebook"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:2680
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:75
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1105
+#: loop-meta.php:116
+msgid "Twitter"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:2684
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:91
+msgid "LinkedIn"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:25
+msgid "Send To Friend"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:30
+msgid "Friend&rsquo;s name"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:36
+msgid "Friend&rsquo;s email"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:41
+#: languages/templatic-front-end-string.php:276
+msgid "Your name"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:46
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:31
+msgid "Your email"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:51
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:35
+#: library/functions/widgets.php:4697
+msgid "Subject"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:52
+msgid "Check out this post"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:55
+#: languages/templatic-front-end-string.php:40
+#: languages/templatic-front-end-string.php:279
+msgid "Comments"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:56
+msgid ""
+"Hello, I just stumbled upon this listing and thought you might like it. Just "
+"check it out. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:65
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:65
+#: library/functions/widgets.php:4734
+msgid "Send"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:26
+msgid "Inquiry for"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:29
+msgid "Full name"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:33
+msgid "Contact number"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:36
+msgid "Inquiry email"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:39
+msgid " Message"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:41
+msgid ""
+"Hello, I would like to inquire more about this listing. Please let me know "
+"how can I get in touch with you. Waiting for your prompt reply?"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/admin_monetization_functions.php:191
+msgid "Top Extension"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:399
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1351
+msgid "Would you like to make this "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:399
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1351
+msgid "featured?"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:511
+msgid "Select a Package"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1184
+msgid "Select your payment plan"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1201
+msgid "You have already subscribed to this package. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1208
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1725
+msgid "Number of free submissions: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1208
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1682
+msgid " Submitted "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1208
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1682
+msgid " Left. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1230
+msgid "Submit listing within following days: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1241
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:2129
+msgid "Select"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1275
+msgid ""
+"No package to choose. No packages are available now or if you are upgrading "
+"then no upgraded package is available than your current package. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1356
+msgid "Yes &sbquo; feature this listing on homepage. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1359
+msgid "Yes &sbquo; feature this listing on category page. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1402
+msgid "Total Charges:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1670
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1688
+msgid "Package Type:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1670
+msgid "Subscription"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1671
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1689
+msgid "Listing duration:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1671
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1689
+msgid " days"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1672
+msgid "Number of listings included in the package:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1676
+msgid "Listings can be submitted within:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1676
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1792
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1798
+#: languages/templatic-front-end-string.php:88
+#: languages/templatic-front-end-string.php:150
+#: languages/templatic-front-end-string.php:206
+msgid "days"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1682
+msgid "Number of free submissions:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1688
+msgid "Single Submission"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1699
+msgid "Recurring period"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1702
+msgid "Day"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1706
+msgid "Month"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1706
+msgid "Months"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1710
+msgid "Year"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1710
+msgid "Years"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1717
+msgid "Number of cycles"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1721
+msgid ""
+"This price package will offer free trial period or plan to bill the first "
+"instalment of a recurring payment only for PayPal payment gateway. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1763
+msgid ""
+"Listings submitted with this package will be automatically featured on: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1767
+msgid "Homepage and Category page"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1788
+msgid "Listings submitted with this package will be featured on: "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1790
+#: languages/templatic-front-end-string.php:356
+msgid "Homepage"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1792
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1798
+msgid " for "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:1796
+#: languages/templatic-front-end-string.php:357
+msgid "Category page"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:2112
+msgid "Price:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/cancel.php:40
+#: languages/templatic-front-end-string.php:63
+msgid "Home"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/cancel.php:45
+msgid "Payment Cancellation"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/cancel.php:65
+msgid "Go to Home"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/cancel.php:96
+msgid "You are not allowed to access this page. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:46
+msgid "Transaction Report"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:49
+msgid "Transaction Detail"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:64
+msgid "Package Detail"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:94
+msgid "Transaction Status"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:116
+msgid "User Information"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:174
+msgid "Rate this by clicking a star below"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:198
+msgid "Your comment is awaiting moderation. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:288
+msgid "Review"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:205
+msgid "Dashboard"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:208
+msgid "Edit profile"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:211
+msgid "Change password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:219
+msgid "Logout"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:233
+msgid "The password you entered is incorrect. Please try again. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:253
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:389
+msgid "Already have an account? "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:253
+#: Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:389
+msgid "Sign in"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:223
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:349
+#: languages/templatic-front-end-string.php:359
+msgid "Sign Up"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:329
+msgid "Or use your email address"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:361
+msgid "Registration is disabled on this website. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:83
+msgid "Google Plus"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:94
+msgid "Contact Me"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:226
+msgid "Edit Profile"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:260
+msgid "Please edit your"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:260
+msgid "profile"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:260
+msgid "and mention your email address to get notifications"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:905
+msgid "Login or register"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:921
+msgid "Incorrect Username/Password. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:924
+#: languages/templatic-front-end-string.php:317
+msgid "I am a"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:925
+msgid "Existing User"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:929
+msgid "New User? Register Now"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:945
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:374
+msgid "Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:950
+#: languages/templatic-front-end-string.php:145
+msgid "Login"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1005
+msgid "The email address is correctly entered. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1011
+msgid "Email address already exists, Please enter another email"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1032
+msgid "Usernames should not contain space. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1037
+msgid "The username must be at least 4 characters long"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1046
+msgid "This username is available. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1055
+msgid "The username you entered already exists, please try a different one"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1096
+msgid "Sign in with"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1102
+msgid "Google"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1136
+msgid "Forgot password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1146
+msgid "Get New Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1317
+msgid "You have subscribed to"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1319
+msgid "price package for"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1321
+msgid "Total number of posts:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1323
+msgid "Submited:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:1325
+msgid "Remaining:"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:258
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:391
+msgid "Sign In"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:363
+msgid "OR use your account"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:383
+msgid "Remember me on this computer"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:387
+msgid "Forgot your password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:399
+msgid "New User? "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:401
+msgid "Register Now"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:439
+#: languages/templatic-front-end-string.php:256
+msgid "Please Enter E-mail"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:443
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:109
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:129
+msgid "Update"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:110
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:130
+msgid "Cancel"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:118
+msgid "Password changed successfully. Please login with your new password. "
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:122
+msgid "New Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:126
+msgid "Confirm New Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:140
+msgid "Please enter New Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:146
+msgid "Please enter New Password minimum 5 chars"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:152
+msgid "Please enter Confirm New Password"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:158
+msgid "Please enter Confirm New Password minimum 5 chars"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:164
+msgid "New Password and Confirm New Password should be same"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:165
+msgid "Post"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:877
+msgid "Within?"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:1003
+msgid "Min value"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:1006
+msgid "Max value"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_browse_by_categories_widget.php:129
+msgid "No Tag Available"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_metakey_search_widget.php:352
+msgid "Address"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:86
+msgid "Submitted"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:88
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:284
+#: languages/templatic-front-end-string.php:189
+msgid "Listings"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:90
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:287
+msgid "Listing"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:99
+msgid "There is no user registered with"
+msgstr ""
+
+#: Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:101
+msgid "role. "
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:225
+msgid "Most Submitted"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:289
+msgid "No listings"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:300
+msgid "View Profile"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:306
+msgid ""
+"This page is most likely empty now. It will be populated automatically once "
+"people add posts on the site. "
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:353
+msgid "Prev"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_people.php:367
+#: languages/templatic-front-end-string.php:57
+#: languages/templatic-front-end-string.php:327
+msgid "Next"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:38
+#: Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:147
+msgid "ERROR: Sorry, you are not allowed to edit this post. "
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:105
+#: Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:210
+msgid "Enter Details"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:157
+#: Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:310
+msgid "Login / Register"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:182
+#: Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:341
+msgid "Payment"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:360
+msgid "Pay Now"
+msgstr ""
+
+#: Tevolution/tmplconnector/shortcodes/shortcode_taxonomies_map.php:146
+msgid ""
+"Your selected category do not have any records yet at your current location. "
+msgstr ""
+
+#: Tevolution/tmplconnector/taxonomies_permalink/taxonomies_permalink.php:278
+msgid "Reset all rules"
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:876
+msgid "Deleting. "
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:885
+#: mobile-templates/mobile-page.php:136 page-templates/contact-us.php:140
+msgid "Please enter your name"
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:887
+msgid "Please enter your email address. "
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:902
+msgid "Please give rating"
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:916
+msgid " or "
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:920
+msgid "Please Login before you submit a form."
+msgstr ""
+
+#: Tevolution/tmplconnector/templatic-connector.php:924
+msgid "Pin"
+msgstr ""
+
+#: Tevolution/tmplconnector/tevolution_ajax_results.php:158
+msgid "Apologies, but no results were found for the requested archive. "
+msgstr ""
+
+#: comments.php:60
+msgid "Reviews are disabled, but "
+msgstr ""
+
+#: comments.php:62 mobile-templates/mobile-comments.php:91
+msgid "trackbacks"
+msgstr ""
+
+#: comments.php:64 mobile-templates/mobile-comments.php:93
+msgid "and pingbacks are open."
+msgstr ""
+
+#: comments.php:71 mobile-templates/mobile-comments.php:99
+msgid "Reviews are disabled."
+msgstr ""
+
+#: content-blog.php:27
+msgid "Featured post"
+msgstr ""
+
+#: header.php:109 library/functions/functions.php:1393
+#: library/functions/menus.php:48 library/functions/menus.php:78
+#: library/functions/menus.php:110 library/functions/menus.php:163
+#: page-templates/full-page-map.php:90 page-templates/full-page-map.php:144
+msgid "Menu"
+msgstr ""
+
+#: index.php:84
+msgid "No Entries"
+msgstr ""
+
+#: index.php:86
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:3
+msgid "Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:4
+msgid "Log out of this account"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:5
+msgid "Log out &raquo;"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:6
+#: languages/templatic-front-end-string.php:267
+#: library/functions/widgets.php:2931 library/functions/widgets.php:2962
+#: library/functions/widgets.php:4691
+msgid "Name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:9
+msgid "*"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:10
+msgid "Leave a Reply"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:11
+msgid "Add a Review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:12
+msgid "Leave a Reply to "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:13
+msgid "Add a Review to "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:14
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:15
+msgid "Post Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:16
+msgid "Logged in as"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:17
+msgid "This is the comment area from where you can give review and ratings."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:18
+msgid "Enter Valid Phone No."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:19
+msgid " and "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:20
+#: languages/templatic-front-end-string.php:367
+msgid "Print"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:21
+msgid "View the entire comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:23
+msgid "Leave a response"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:24
+#, php-format
+msgid "%1$s Response"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:25
+#, php-format
+msgid "%1$s Responses"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:26
+msgid " (Listing owner) "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:28
+msgid "Other Information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:29
+msgid "Total Price"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:30
+msgid "Payment Details for"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:31
+msgid "Type"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:32
+msgid "Date"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:33
+msgid "Reference Number"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:34
+msgid "Account Number"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:35
+msgid "Price Package Information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:36
+msgid "Wrong username or password."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:38
+msgid "No Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:39
+msgid "One Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:41
+msgid "No Review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:42
+msgid "One Review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:44
+msgid "1 Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:45
+msgid "Post Review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:46
+msgid "rating"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:47
+msgid "ratings"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:48
+#: languages/templatic-front-end-string.php:167
+msgid "Upgraded Successfully"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:49
+msgid "Renew"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:50
+msgid "| No Comments"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:51
+msgid "| 1 Comment"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:52
+msgid "| % Comments"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:53
+msgid "| Comments Closed"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:56
+msgid "Last Page"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:58
+#: languages/templatic-front-end-string.php:326
+msgid "Previous"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:59
+msgid "First Page"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:64 loop-meta.php:168
+msgid "Search results for"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:65
+msgid "404 Not Found"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:68
+msgid "Published by"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:69
+#: languages/templatic-front-end-string.php:124
+msgid "Edit"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:70
+msgid "Edit "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:71
+msgid "On"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:72
+msgid "Categories: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:74
+msgid "[Read More...]"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:77
+msgid "Mile"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:78
+msgid "Kilometer"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:79
+msgid "Kilometers"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:80
+msgid "Miles"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:83
+msgid "min"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:84
+msgid "mins"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:85
+msgid "hour"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:86
+msgid "hours"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:87
+msgid "day"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:89
+msgid "week"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:90
+msgid "weeks"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:91
+msgid "month"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:92
+msgid "months"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:93
+msgid "year"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:94
+msgid "years"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:95
+msgid "ago"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:96
+msgid "view"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:97
+msgid "views"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:104
+msgid "Visit"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:105
+msgid "Visits"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:106
+msgid "today"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:107
+msgid "To"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:110
+msgid "Reply"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:111
+msgid "Log in to reply."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:112
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:115
+#: languages/templatic-front-end-string.php:173
+msgid "Add to favorites"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:116
+msgid "Added"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:117
+msgid "You cannot select more than "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:118
+msgid " categories with this package."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:120
+msgid "Package Name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:122
+msgid "Next Billing will occur on: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:123
+msgid "Expires On: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:125
+msgid "Upgrade"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:127
+msgid ""
+"This listing is not published yet, contact site administrator for more "
+"details."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:130
+msgid "Already Claimed"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:131
+msgid "Owner Verified Listing"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:132
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:133
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:134
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:135
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:136
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:137
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:138
+#, php-format
+msgid ""
+"You have subscribed to this package but your transaction is not approved "
+"yet. Please %s contact%s the administrator of the site for more details."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:139
+msgid "Pay With"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:141
+msgid "Select Categories"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:144
+msgid "Register"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:148
+msgid "You are going to update a post that will cost you "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:149
+#: languages/templatic-front-end-string.php:210
+msgid "for"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:151
+msgid ""
+"You are going to update your entry. To make any changes, please press the "
+"'Go back and edit' button below."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:152
+msgid ""
+"<p>Hello [#to_name#]</p><p>Here's some info about your payment...</"
+"p><p>[#transaction_details#]</p><p>If you'll have any questions about this "
+"payment please send an email to [#admin_email#]</p><p>Thanks!,<br/"
+">[#site_name#]</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:153
+msgid ""
+"<p>Howdy [#to_name#] ,</p><p>You have received a payment of [#payable_amt#] "
+"on [#site_name#]. Details are available below</p><p>[#transaction_details#]</"
+"p><p>Thanks,<br/>[#site_name#]</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:154
+msgid "Thank you! We have successfully received the submitted information."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:155
+msgid "Click here"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:156
+msgid "for a preview of the submitted content."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:157
+msgid "View your submitted information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:158
+msgid "Thank you! We have successfully received your PreBank payment request."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:159
+msgid "To complete the transaction please transfer "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:160
+msgid "Please include the following number as reference:"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:161
+msgid "Thank you!"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:162
+msgid ""
+"<p>Howdy [#to_name#] ,</p><p>Payment from [#user_login#] is pending for the "
+"new listing they submitted on your site as they selected pre bank transfer "
+"as their preferred payment method.</p><p><p>You can view details below "
+"[#transaction_details#]</p> <p>You can contact [#user_login#] for status of "
+"the payment.</p><p>Thanks!<br/>[#site_name#]</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:163
+msgid "Payment Method"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:164
+msgid "Paid amount"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:165
+msgid "Status"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:166
+msgid "Submitted Successfully"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:168
+msgid "Updated Successfully"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:171
+msgid "Send to friend"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:174 searchform.php:16
+msgid "Looking For ..."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:176
+msgid "Mail to a friend"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:177
+msgid "Send Inquiry"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:178
+msgid " Head over to the "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:179
+msgid "Form"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:180
+msgid " to add one."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:183
+msgid "What?"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:184
+msgid "Pay &amp; Publish"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:186
+msgid "Read more"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:191
+msgid "Listing Information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:195
+msgid "Favorites"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:196
+msgid "Favourite"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:198
+msgid "Thank you for your submission!"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:199
+msgid "Information Submitted URL"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:200
+msgid "Category"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:201
+msgid "Title"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:203
+msgid "Excerpt"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:204
+msgid "Images"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:205
+msgid "You are going to submit post for "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:207
+msgid "You are going to upgrade your post with "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:208
+msgid "package which will cost you"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:209
+msgid "You are going to submit a post that will cost you "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:211
+msgid ""
+"This is the preview of your submitted information. To make any changes, "
+"please press the 'Go back and edit' button below."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:212
+msgid "You are going to update your entry."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:213
+msgid "Log out"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:214
+msgid "PREV"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:215
+msgid "NEXT"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:216
+msgid "Based on"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:217
+msgid "Please enter your friend's name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:218
+msgid "Please enter your friend's valid email address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:219
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:220
+msgid ""
+"Are you really sure want to DELETE this post? Deleted post can not be "
+"recovered later."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:221
+msgid "Oops! Please make sure you have filled all the mandatory fields."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:222
+msgid "Please upload at least 1 image to the gallery !"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:224
+msgid "Please select Category"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:225
+msgid "Please Enter title"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:226
+msgid "Please enter phone number"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:227
+msgid "Please Enter Address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:228
+msgid "Please Enter content"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:229
+msgid "Please provide your email address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:230
+msgid "Please provide valid email address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:231
+msgid "Oops!, looks like you forgot to enter a value in some compulsory field"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:232
+msgid "Your submitted Information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:233
+msgid "Please Select Price Package"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:234
+#, php-format
+msgid "Select your %s package"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:235
+#, php-format
+msgid "You have subscribed to the %s package."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:236
+msgid "Please accept Terms and Conditions."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:237
+msgid "Incorrect username"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:238
+msgid "Select Child Category"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:240
+msgid "Please select country name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:241
+msgid "Please select city name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:242
+msgid "Please select state name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:247
+msgid "Select Payment Method"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:248
+msgid "States not available"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:249
+msgid "City not available"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:250
+msgid "read more"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:251
+msgid "User name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:252
+msgid "review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:253
+msgid "reviews"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:257
+msgid "Please Enter User name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:258
+#, php-format
+msgid "Please Enter %s"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:259
+msgid "Your profile is updated successfully."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:260
+msgid "Your Profile"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:261
+msgid "Thank you for purchasing a subscription plan"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:262
+msgid ""
+"Thank you for registration! Please check your mail to get your login "
+"information."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:265
+#: languages/templatic-front-end-string.php:289
+msgid "Dear"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:266
+msgid "You have an inquiry message. Here are the details"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:269
+#: library/functions/widgets.php:4704
+msgid "Message"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:270
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:271
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:273
+msgid "User name must be minimum 4 character long"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:274
+msgid "Usernames should not contain space."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:275
+msgid "Search For"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:277
+msgid "Email Address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:285
+msgid "Update Now"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:286
+msgid "Payment Pending For Upgrade Request: #"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:290
+msgid "Claim verified for - "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:291
+msgid "The Claim for the"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:292
+msgid " has been verified."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:293
+msgid "You can login with the following credentials :"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:294
+msgid "Username:"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:295
+msgid "Password:"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:296
+msgid ""
+"You can login from [#site_login_url#] or copy this link and paste it to your "
+"browser's address bar: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:297
+msgid "Thanks,"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:301
+msgid "<p>Dear [#to_name#],</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:302
+msgid "<p>Your "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:303
+msgid " has been updated by you . Here is the information about the "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:304
+msgid "</p>[#information_details#]<br><p>[#site_name#]</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:305
+msgid "has been renew by you . Here is the information about the"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:306
+msgid "View more detail of"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:307
+msgid "Payment Status: <b>Pending</b>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:309
+msgid "Payment Status: <b>Success</b>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:310
+msgid "Bank Name: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:311
+msgid "Account Number: "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:312
+#, php-format
+msgid ""
+"Thank you for submitting your %s at our site, your %s request has been "
+"updated successfully."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:313
+msgid "Log in"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:314
+msgid "You must be"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:315
+msgid "logged in"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:316
+msgid " to post a comment."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:318
+msgid "Preview This"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:319
+msgid "We have found these results for listings matching your search criteria."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:320
+msgid "From:"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:321
+msgid "<i>Previous</i>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:322
+msgid "<i>Next</i>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:323
+#, php-format
+msgid "Visited %s times"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:324
+msgid " Visits today"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:325
+msgid "Set Address on Map"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:328
+msgid "Please Enter "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:329
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:330
+msgid "Posted In"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:331
+msgid "Package type"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:332
+msgid "Pay per subscription"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:333
+msgid "Pay per post"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:336
+msgid "Coupon added successfully."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:337
+msgid "Added Successfully"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:338
+msgid "Submission received successfully, thank you for listing with us."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:339
+msgid "Tagged In "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "A"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "B"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "C"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "D"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "E"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "F"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "G"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "H"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "I"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "J"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "K"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "L"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "M"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "N"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "O"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "P"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "Q"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "R"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "S"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "T"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "U"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "V"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "W"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "X"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "Y"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:340
+msgid "Z"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:341
+msgid "Continue"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:342
+msgid "Preview"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:343
+msgid "Please select Country"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:344
+msgid "Please select State"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:345
+msgid "Please select City"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:346
+msgid "Approved"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:347
+msgid "Pending"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:348
+#, php-format
+msgid "Welcome %s, submit your listing details."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:349
+msgid "Add Review"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:350
+#: languages/templatic-front-end-string.php:358
+msgid "unlimited"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:351
+#, php-format
+msgid "<span>Posted In</span> %s"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:352
+msgid "Renew Successfully Information"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:353
+msgid "Amount"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:354
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:355
+msgid "Free"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:360
+msgid "Verified"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:361
+msgid "Beds "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:362
+msgid "Baths "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:363
+msgid "sq.ft"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:364
+#, php-format
+msgid ""
+"This package allows you to add %d listings, you have already added %d. You "
+"still have %d listings left in your package."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:365
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:366
+#, php-format
+msgid "Please Select %s"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:368
+msgid "Claim Ownership"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:369
+msgid "Hi "
+msgstr ""
+
+#: languages/templatic-front-end-string.php:370
+msgid "Package for this post has been expired."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:371
+msgid "Listing Owner"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:372
+#, php-format
+msgid ""
+"<p>Dear [#to_name#],</p>\n"
+"\t\t<p>%s has been renew on your site. Here is the information about the %s:"
+"</p>\n"
+"\t\t[#information_details#]\n"
+"\t\t<br>\n"
+"\t\t<p>[#site_name#]</p>"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:377
+msgid "Bank Name"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:378
+msgid "description in two lines (will be shown on listing pages)"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:379
+msgid "Values must be all numbers."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:380
+msgid "Transaction ID"
+msgstr ""
+
+#: languages/templatic-front-end-string.php:381
+#, php-format
+msgid ""
+"You have now upgraded to a new package %s You paid %s to upgrade your "
+"package."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:382
+msgid "Your request has been updated successfully."
+msgstr ""
+
+#: languages/templatic-front-end-string.php:383
+msgid "Select Sub Category"
+msgstr ""
+
+#: library/classes/process_mailchimp.php:29
+msgid "Error while Subscription."
+msgstr ""
+
+#: library/classes/process_mailchimp.php:31
+msgid "Successfully Subscribed. Please check confirmation email."
+msgstr ""
+
+#: library/classes/twitter.php:105
+msgid "cURL is NOT installed on this server"
+msgstr ""
+
+#: library/classes/twitter.php:233
+msgid "No public tweets"
+msgstr ""
+
+#: library/classes/twitter.php:237
+msgid "Unable to get tweets"
+msgstr ""
+
+#: library/functions/functions.php:458
+msgid "Posted in"
+msgstr ""
+
+#: library/functions/functions.php:462
+msgid "and tagged"
+msgstr ""
+
+#: library/functions/functions.php:1685
+msgid "Facebook Share."
+msgstr ""
+
+#: library/functions/widgets.php:2518
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+#: library/functions/widgets.php:2805
+msgid "Add more"
+msgstr ""
+
+#: library/functions/widgets.php:2807
+msgid "Remove"
+msgstr ""
+
+#: library/functions/widgets.php:2918
+msgid "Your Name"
+msgstr ""
+
+#: library/functions/widgets.php:2919 library/functions/widgets.php:2932
+#: library/functions/widgets.php:2942 library/functions/widgets.php:2963
+msgid "Your Email Address"
+msgstr ""
+
+#: library/functions/widgets.php:2923 library/functions/widgets.php:2933
+#: library/functions/widgets.php:2944
+msgid "Subscribe"
+msgstr ""
+
+#: library/functions/widgets.php:2962
+msgid "Names"
+msgstr ""
+
+#: library/functions/widgets.php:3458
+msgid "Add More"
+msgstr ""
+
+#: library/functions/widgets.php:3910
+msgid "No results found."
+msgstr ""
+
+#: library/functions/widgets.php:4569
+msgid "Please Enter Name"
+msgstr ""
+
+#: library/functions/widgets.php:4605
+msgid "Please Enter valid Email"
+msgstr ""
+
+#: library/functions/widgets.php:4621
+msgid "Please Enter Subject"
+msgstr ""
+
+#: library/functions/widgets.php:4638
+msgid "Please Enter Message"
+msgstr ""
+
+#: library/functions/widgets.php:4655 mobile-templates/mobile-page.php:222
+#: page-templates/contact-us.php:226
+msgid "Please enter captcha"
+msgstr ""
+
+#: library/functions/widgets.php:4672
+msgid "Please fill the captcha form."
+msgstr ""
+
+#: library/functions/widgets.php:4677 mobile-templates/mobile-page.php:71
+#: page-templates/contact-us.php:73
+msgid "You need to play the game to contact us."
+msgstr ""
+
+#: library/functions/widgets.php:4681
+msgid "Thank you! Your message has been successfully sent."
+msgstr ""
+
+#: library/functions/widgets.php:4684
+msgid "Please fill out all the fields before submitting."
+msgstr ""
+
+#: library/functions/widgets.php:5410
+msgid "There is no post available right now."
+msgstr ""
+
+#: library/functions/widgets.php:6047
+msgid "Subtotal"
+msgstr ""
+
+#: library/functions/widgets.php:6050
+msgid "View Cart"
+msgstr ""
+
+#: library/functions/widgets.php:6052
+msgid "Checkout"
+msgstr ""
+
+#: library/functions/widgets.php:6253
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets.php:6258
+msgid "Subtitle:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:557
+msgid "No Popular post fond."
+msgstr ""
+
+#: library/functions/widgets_functions.php:813
+msgid "Select Product"
+msgstr ""
+
+#: loop-error.php:19
+msgid "Whoops. Looks like there are no favourites available here."
+msgstr ""
+
+#: loop-error.php:21
+msgid "Whoops. Looks like there are no entries available here."
+msgstr ""
+
+#: loop-meta.php:107
+msgid "Link"
+msgstr ""
+
+#: loop-meta.php:134
+msgid "You have subscribed to "
+msgstr ""
+
+#: loop-meta.php:135
+msgid " which allows you to submit "
+msgstr ""
+
+#: loop-meta.php:138
+msgid " You have submitted "
+msgstr ""
+
+#: loop-meta.php:139
+msgid "events till now, go and submit remaining "
+msgstr ""
+
+#: loop-meta.php:142
+msgid " and you have already submitted."
+msgstr ""
+
+#: loop-meta.php:144
+msgid "to continue the listing Click on add/submit events."
+msgstr ""
+
+#: loop-meta.php:185
+msgid "You are browsing the search results for "
+msgstr ""
+
+#: loop-meta.php:195
+msgid "Daily Archives: "
+msgstr ""
+
+#: loop-meta.php:197 loop-meta.php:203 loop-meta.php:209
+msgid "You are browsing the site archives by."
+msgstr ""
+
+#: loop-meta.php:201
+msgid "Monthly Archives:"
+msgstr ""
+
+#: loop-meta.php:207
+msgid "Yearly Archives:"
+msgstr ""
+
+#: loop-meta.php:232
+msgid "Archives"
+msgstr ""
+
+#: loop-meta.php:236
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: mobile-templates/mobile-comments.php:89
+msgid "Reviews are disabled, but"
+msgstr ""
+
+#: mobile-templates/mobile-page.php:50 page-templates/contact-us.php:52
+msgid "Contact mail successfully sent."
+msgstr ""
+
+#: mobile-templates/mobile-page.php:170 page-templates/contact-us.php:174
+msgid "Please enter valid email address"
+msgstr ""
+
+#: mobile-templates/mobile-page.php:187 page-templates/contact-us.php:191
+msgid "Please enter a subject"
+msgstr ""
+
+#: mobile-templates/mobile-page.php:203 page-templates/contact-us.php:207
+msgid "Please enter message"
+msgstr ""
+
+#: page-templates/archives.php:60
+msgid "by"
+msgstr ""
+
+#: page-templates/archives.php:64
+msgid "on"
+msgstr ""

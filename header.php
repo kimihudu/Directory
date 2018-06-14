@@ -199,98 +199,93 @@ supreme_secondary_navigation();
 ?>
 
 <!-- 604lk - hamburger menu -->
-
-<div >
-   <div >
-      <nav class="wrap">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
-        aria-expanded="false" aria-label="Toggle navigation"><div class="hamburger_icon"><span></span><span></span><span></span></div></button>
-         <div class="menu" id="hamburger">
-			<form name="searchform_372881311" method="get" class="searchform_372881311 allinone" id="mega-searchform1" action="https://planet-legal.com/" style="position:relative;">
-				<input type="hidden" name="t" value="6b4b5513eb">
-				<input type="hidden" name="posttype[]" value="biz_legal_materials">
-				<input type="hidden" name="posttype[]" value="busines_needs">
-				<input type="hidden" name="posttype[]" value="business_files">
-				<input type="hidden" name="posttype[]" value="event">
-				<input type="hidden" name="posttype[]" value="needs">
-				<input type="hidden" name="posttype[]" value="personal_files">
-				<input type="hidden" name="posttype[]" value="prs_legal_materials">
-				<input type="hidden" name="mkey[]" value="cats">
-				<input type="hidden" name="mkey[]" value="tags">
-				<input type="hidden" name="mkey[]" value="category">
-				<input type="hidden" name="mkey[]" value="post_excerpt">
-				<input type="hidden" name="mkey[]" value="blm_entityname">
-				<input type="hidden" name="mkey[]" value="blm_website">
-				<input type="hidden" name="mkey[]" value="all_language">
-				<input type="hidden" name="mkey[]" value="company_name">
-				<input type="hidden" name="mkey[]" value="company_url">
-				<input type="hidden" name="mkey[]" value="about_company">
-				<input type="hidden" name="mkey[]" value="application_deadline">
-				<input type="hidden" name="mkey[]" value="needs_legal_budget">
-				<input type="hidden" name="mkey[]" value="bf_entityname">
-				<input type="hidden" name="mkey[]" value="bf_aboutentity">
-				<input type="hidden" name="mkey[]" value="bf_pf_filereferral">
-				<input type="hidden" name="mkey[]" value="address">
-				<input type="hidden" name="mkey[]" value="st_date">
-				<input type="hidden" name="mkey[]" value="st_time">
-				<input type="hidden" name="mkey[]" value="end_time">
-				<input type="hidden" name="mkey[]" value="reg_desc">
-				<input type="hidden" name="mkey[]" value="organizer_website">
-				<input type="hidden" name="mkey[]" value="organizer_desc">
-				<input type="hidden" name="mkey[]" value="cpd">
-				<input type="hidden" name="mkey[]" value="period_of_your_event">
-				<input type="hidden" name="mkey[]" value="ev_access">
-				<input type="hidden" name="mkey[]" value="pln_budget">
-				<input type="hidden" name="mkey[]" value="plm_entityname">
-				<input type="hidden" name="mkey[]" value="plm_website">
-				<input type="hidden" name="custom_cat" value="">
-				<input type="text" onclick="tmpl_insta_search_widget( 'searchform_372881311' )" onkeypress="tmpl_insta_search_widget( 'searchform_372881311' )" value="" name="s" id="search_near-17573754111" class="searchpost placeholder" placeholder="Looking For ..." size="100">
-				<input type="hidden" name="t" value="6b4b5513eb">
-				<input type="hidden" name="relation" class="sgo" value="OR">
-				<input type="submit" class="sgo" onclick="tmpl_find_click(17573754111);" value="Search">
-				<!--<ul id="search-result" class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" style="display:none;"></ul>-->
-			</form>
-			<ul class='list'>
-				<li >
-					<a href='#'>Home
-					<span class="sub-indicator">»</span>
-					</a>
-					<ul class="sub-hamburger" style="">
-						<li ><a href="#">About us</a></li>
-						<li ><a href="#">Our Path</a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul class='list'>
-				<li ><a href="#">Find Lawyers</a></li>
-				<li ><a href="#">Refer Files</a></li>
-				<li>
-					<a href='#'>Client Resources
-					<span class="sub-indicator">»</span>
-					</a>
-					<ul class="sub-hamburger" style="">
-						<li>
+<div class='wrap'>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
+		aria-expanded="false" aria-label="Toggle navigation">
+		<div class="hamburger_icon"><span></span><span></span><span></span></div>
+	</button>
+	<div class="menu" id="hamburger">
+		<form name="searchform_372881311" method="get" class="searchform_372881311 allinone" id="mega-searchform1" action="https://planet-legal.com/" style="position:relative;">
+			<input type="hidden" name="t" value="6b4b5513eb">
+			<input type="hidden" name="posttype[]" value="biz_legal_materials">
+			<input type="hidden" name="posttype[]" value="busines_needs">
+			<input type="hidden" name="posttype[]" value="business_files">
+			<input type="hidden" name="posttype[]" value="event">
+			<input type="hidden" name="posttype[]" value="needs">
+			<input type="hidden" name="posttype[]" value="personal_files">
+			<input type="hidden" name="posttype[]" value="prs_legal_materials">
+			<input type="hidden" name="mkey[]" value="cats">
+			<input type="hidden" name="mkey[]" value="tags">
+			<input type="hidden" name="mkey[]" value="category">
+			<input type="hidden" name="mkey[]" value="post_excerpt">
+			<input type="hidden" name="mkey[]" value="blm_entityname">
+			<input type="hidden" name="mkey[]" value="blm_website">
+			<input type="hidden" name="mkey[]" value="all_language">
+			<input type="hidden" name="mkey[]" value="company_name">
+			<input type="hidden" name="mkey[]" value="company_url">
+			<input type="hidden" name="mkey[]" value="about_company">
+			<input type="hidden" name="mkey[]" value="application_deadline">
+			<input type="hidden" name="mkey[]" value="needs_legal_budget">
+			<input type="hidden" name="mkey[]" value="bf_entityname">
+			<input type="hidden" name="mkey[]" value="bf_aboutentity">
+			<input type="hidden" name="mkey[]" value="bf_pf_filereferral">
+			<input type="hidden" name="mkey[]" value="address">
+			<input type="hidden" name="mkey[]" value="st_date">
+			<input type="hidden" name="mkey[]" value="st_time">
+			<input type="hidden" name="mkey[]" value="end_time">
+			<input type="hidden" name="mkey[]" value="reg_desc">
+			<input type="hidden" name="mkey[]" value="organizer_website">
+			<input type="hidden" name="mkey[]" value="organizer_desc">
+			<input type="hidden" name="mkey[]" value="cpd">
+			<input type="hidden" name="mkey[]" value="period_of_your_event">
+			<input type="hidden" name="mkey[]" value="ev_access">
+			<input type="hidden" name="mkey[]" value="pln_budget">
+			<input type="hidden" name="mkey[]" value="plm_entityname">
+			<input type="hidden" name="mkey[]" value="plm_website">
+			<input type="hidden" name="custom_cat" value="">
+			<input type="text" onclick="tmpl_insta_search_widget( 'searchform_372881311' )" onkeypress="tmpl_insta_search_widget( 'searchform_372881311' )" value="" name="s" id="search_near-17573754111" class="searchpost placeholder" placeholder="Looking For ..." size="100">
+			<input type="hidden" name="t" value="6b4b5513eb">
+			<input type="hidden" name="relation" class="sgo" value="OR">
+			<input type="submit" class="sgo" onclick="tmpl_find_click(17573754111);" value="Search">
+			<!--<ul id="search-result" class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" style="display:none;"></ul>-->
+		</form>
+		<ul class='list'>
+			<li >
+				<a href='#'>Home
+				<span class="sub-indicator">»</span>
+				</a>
+				<ul class="sub-hamburger" style="">
+					<li ><a href="#">About us</a></li>
+					<li ><a href="#">Our Path</a></li>
+				</ul>
+			</li>
+		</ul>
+		<ul class='list'>
+			<li ><a href="#">Find Lawyers</a></li>
+			<li ><a href="#">Refer Files</a></li>
+			<li>
+				<a href='#'>Client Resources
+				<span class="sub-indicator">»</span>
+				</a>
+				<ul class="sub-hamburger" style="">
+					<li>
 						<a href="#">Legal Materials
 						<img src='https://planet-legal.com/wp-content/uploads/2018/06/en.png'/>
 						</a>
-						</li>
-						<li >               <a href="#">Client Events
+					</li>
+					<li >               <a href="#">Client Events
 						<img src='https://planet-legal.com/wp-content/uploads/2018/06/en.png'/></a>
-						</li>
-						<li ><a href="#">Lawyer Information<img src='https://planet-legal.com/wp-content/uploads/2018/06/en.png'/></a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li ><a href="#">Find Clients</a></li>
-				<li ><a href="#">News</a></li>
-				<li ><a href="#">Advertises</a></li>
-			</ul>
-         </div>
-
-      </nav>
-   </div>
-
+					</li>
+					<li ><a href="#">Lawyer Information<img src='https://planet-legal.com/wp-content/uploads/2018/06/en.png'/></a></li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li ><a href="#">Find Clients</a></li>
+			<li ><a href="#">News</a></li>
+			<li ><a href="#">Advertises</a></li>
+		</ul>
+	</div>
 </div>
 <script>
         jQuery(document).ready(function($){

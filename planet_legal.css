@@ -1148,14 +1148,69 @@ button.title1
     transform: rotate(-135deg);
   }
 
-  #hamburger-container{
-    z-index:1000;
-    width:100%;
-    position: fixed;
-    top:0;
-  }
+
 
   #menu-secondary button{
       float: right;
       margin-right: 2em;
   }
+
+  #hamburger.open{
+    display:block;
+    font-size:0.8em;
+    position: relative;
+  }
+
+#hamburger.open:after,
+#hamburger.open:before{
+-moz-box-sizing: border-box;
+   box-sizing: border-box;
+   -webkit-font-smoothing: antialiased;
+   font-smoothing: antialiased;
+   text-rendering: optimizeLegibility;
+}
+
+#hamburger.open > ul{
+    margin:2em 1rem;
+    width:auto;
+    float:none;
+    list-style:none;
+  }
+
+#hamburger.open > ul > li{
+   background-color:rgba(255,255,255,0.3)!important;
+   padding: 1em;
+}
+
+#hamburger.open > ul > li > a{
+   color: #fff !important;
+   font-size: 1.5em;
+   font-weight: bold;
+   text-transform: uppercase;
+
+  }
+
+#hamburger.open{
+    display: block;
+   width:100%;
+   min-height: 100vh;
+   margin-top:10%;
+   padding-top: 1em;
+   background-color:rgba(101,115,126,1)!important;
+}
+
+#hamburger.open .sub-hamburger{
+ display:none;
+ padding-top: 1em;
+}
+
+#hamburger.open .sub-hamburger > li > a{
+   color: rgba(255,255,255,0.8) !important;
+   font-size: 1.5em;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+#hamburger.open .sub-hamburger > li{
+  padding: 0.5em;
+}

@@ -250,11 +250,6 @@ supreme_secondary_navigation();
 				<input type="submit" class="sgo" onclick="tmpl_find_click(17573754111);" value="Search">
 				<!--<ul id="search-result" class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" style="display:none;"></ul>-->
 			</form>
-			<ul>
-				<li ><a href="#">Login</a></li>
-				<li ><a href="#">Register</a></li>
-				<li ><a href="#">Contact Us</a></li>
-			</ul>
 			<ul class='list'>
 				<li >
 					<a href='#'>Home

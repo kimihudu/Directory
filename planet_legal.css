@@ -1079,10 +1079,13 @@ button.title1
 }
 
 
-.container{
-    top:3em;
+.container > button{
+    float: right;
 }
 
+#hamburger{
+    display: none;
+}
 .container.open{
 
     height: 100vh;

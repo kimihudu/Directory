@@ -199,7 +199,7 @@ supreme_secondary_navigation();
 ?>
 
 <!-- 604lk - hamburger menu -->
-<div class='wrap'>
+<div class='container'>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
 		aria-expanded="false" aria-label="Toggle navigation">
 		<div class="hamburger_icon"><span></span><span></span><span></span></div>

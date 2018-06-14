@@ -1049,3 +1049,8 @@ button.title1
 .sub-hamburger > li > a > img{
     margin: 1px;
 }
+
+@media (max-width: 600px){
+
+    -webkit-overflow-scrolling: touch;
+}

@@ -1269,3 +1269,7 @@ button.title1
 #mega-hamburger.open .sub-hamburger > li{
    padding: 0.5em;
 }
+
+#mega-hamburger > ul:nth-child(1){
+    display: none;
+}

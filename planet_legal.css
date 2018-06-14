@@ -1055,14 +1055,16 @@ button.title1
 
 
     #hamburger-container{
-        overflow-x: hidden;
-        overflow-y: auto;
+
         -webkit-overflow-scrolling: touch;
 
     }
 
     #mega-hamburger{
         height: calc(100% + 1px);
+        overflow-x: hidden;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
     #mega-hamburger.open > ul > li > a{

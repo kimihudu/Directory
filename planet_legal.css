@@ -1018,12 +1018,12 @@ button.title1
 
 }
 
-#sec_lawyers .sec_content .section_heading2{
+/*#sec_lawyers .sec_content .section_heading2{
    display: block;
    text-align: justify;
    padding-right: 16%;
 
-}
+}*/
 
 #menu-primary-items > li > a {
    color: rgba(255, 255, 255, 0.8) !important;
@@ -1051,5 +1051,5 @@ button.title1
 }
 .section_heading1
 {
-    font-size:2em;
+    fo
 }

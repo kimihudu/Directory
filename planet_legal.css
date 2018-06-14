@@ -1080,7 +1080,7 @@ button.title1
 
 
 /* child for hamburger icon desktop*/
-.animated-icon1{
+.hamburger_icon{
     width: 30px;
     height: 20px;
     position: relative;
@@ -1097,7 +1097,7 @@ button.title1
 
   }
 
-  .animated-icon1 span{
+  .hamburger_icon span{
     background: rgb(230,176,59);
     display: block;
     position: absolute;
@@ -1115,19 +1115,19 @@ button.title1
     -o-transition: .25s ease-in-out;
     transition: .25s ease-in-out;
   }
-  .animated-icon1 span:nth-child(1) {
+  .hamburger_icon span:nth-child(1) {
     top: 0px;
   }
 
-  .animated-icon1 span:nth-child(2) {
+  .hamburger_icon span:nth-child(2) {
     top: 10px;
   }
 
-  .animated-icon1 span:nth-child(3) {
+  .hamburger_icon span:nth-child(3) {
     top: 20px;
   }
 
-  .animated-icon1.open span:nth-child(1) {
+  .hamburger_icon.open span:nth-child(1) {
     top: 11px;
     -webkit-transform: rotate(135deg);
     -moz-transform: rotate(135deg);
@@ -1135,12 +1135,12 @@ button.title1
     transform: rotate(135deg);
   }
 
-  .animated-icon1.open span:nth-child(2) {
+  .hamburger_icon.open span:nth-child(2) {
     opacity: 0;
     left: -60px;
   }
 
-  .animated-icon1.open span:nth-child(3) {
+  .hamburger_icon.open span:nth-child(3) {
     top: 11px;
     -webkit-transform: rotate(-135deg);
     -moz-transform: rotate(-135deg);
@@ -1191,7 +1191,7 @@ button.title1
   }
 
 #hamburger.open{
-    display: block;
+   display: block;
    width:100%;
    min-height: 100vh;
    margin-top:10%;

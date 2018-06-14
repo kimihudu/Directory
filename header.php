@@ -204,7 +204,7 @@ supreme_secondary_navigation();
    <div id="menu-secondary" class="menu-container clearfix">
       <nav role="navigation" class="wrap">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
-        aria-expanded="false" aria-label="Toggle navigation"><div class="animated-icon1"><span></span><span></span><span></span></div></button>
+        aria-expanded="false" aria-label="Toggle navigation"><div class="hamburger_icon"><span></span><span></span><span></span></div></button>
          <div class="menu" id="hamburger">
 			<form name="searchform_372881311" method="get" class="searchform_372881311 allinone" id="mega-searchform1" action="https://planet-legal.com/" style="position:relative;">
 				<input type="hidden" name="t" value="6b4b5513eb">
@@ -299,7 +299,7 @@ supreme_secondary_navigation();
 </div>
 <script>
         jQuery(document).ready(function($){
-            $('.animated-icon1').click(function(){
+            $('.hamburger_icon').click(function(){
                 jQuery(this).toggleClass('open');
 				jQuery('#hamburger').toggleClass('open');
             });

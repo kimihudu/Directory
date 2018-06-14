@@ -1052,13 +1052,20 @@ button.title1
 
 @media (max-width: 600px){
 
-    #content{
-        overflow: hidden;
+
+
+    #hamburger-container{
+        overflow-x: hidden;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+
     }
 
     #mega-hamburger{
-        overflow-x: hidden;
-        overflow-y: scroll;
-        -webkit-overflow-scrolling: touch;
+        height: calc(100% + 1px);
+    }
+
+    #mega-hamburger.open > ul > li > a{
+        font-size: 1.5em;
     }
 }

@@ -1095,6 +1095,12 @@ button.title1
 
 #hamburger-container{
    display:block;
+   top: 30px;
+   position: absolute;
+}
+
+#hamburger-container > button{
+    margin-right: 3em;
 }
 
 

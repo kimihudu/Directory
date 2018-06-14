@@ -1071,6 +1071,9 @@ button.title1
         height: calc(100% + 1px);
         clear: both;
     }
+    #mega-hamburger > * {
+        -webkit-transform: translateZ(0px);
+    }
 
     #mega-hamburger.open > ul > li > a{
         font-size: 1.5em;

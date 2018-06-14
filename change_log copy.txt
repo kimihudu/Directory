@@ -7,7 +7,7 @@ FIX - Flickr link spelling mistake
 /library/functions/widgets.php
 
 ------------------------------------------------------------------------------------------
-FIX - Updated Bloginfo-Name for mobile device. 
+FIX - Updated Bloginfo-Name for mobile device.
 FIX - Title on category page shows twice.
 ------------------------------------------------------------------------------------------
 /style.css
@@ -18,7 +18,7 @@ FIX - Rating not translating
 /languages/templatic-front-end-string.php
 
 ------------------------------------------------------------------------------------------
-Fix - Newsletter Id was showing on the detail page of the site 
+Fix - Newsletter Id was showing on the detail page of the site
 ------------------------------------------------------------------------------------------
 /library/functions/widgets.php
 
@@ -382,9 +382,9 @@ Fix : Shows fatal error on home page banner.
 
 ------------------------------------------------------------------------------------------
 Change : Default selected listing post type and some filtering option for Instant search.
-         Instant search widget default listing post type selected and filtering option by 
+         Instant search widget default listing post type selected and filtering option by
 		 default selected.
-		 
+
 ------------------------------------------------------------------------------------------
 /library/functions/auto_install/auto_install_data.php
 
@@ -457,7 +457,7 @@ Improved : Make compatibility with wpml version 3.2.2
 
 19th June 2015 (Version 2.0.7)
 -----------------------------------------------------------------------------------------
-Improved : Wp-rest-api plugin which is third party plugin, When active this plugin automatic 
+Improved : Wp-rest-api plugin which is third party plugin, When active this plugin automatic
 	   json api functionality going to work.
 	   Make effect in recent review widget.
 -----------------------------------------------------------------------------------------
@@ -540,7 +540,7 @@ Fix : Multirating Design issue on detail page.
 /style.css
 
 -----------------------------------------------------------------------------------------
-Fix : The widget 'below homepage content' show two times on the mobile homepage, 
+Fix : The widget 'below homepage content' show two times on the mobile homepage,
 (try to place a widget called T->display Post at below homepage content widget area)
 -----------------------------------------------------------------------------------------
 /footer.php
@@ -827,7 +827,7 @@ Fix.: Map on archive Page
 /library/functions/functions.php
 
 -----------------------------------------------------------------------------------------
-Fix.: Instant search and other Design fixes 
+Fix.: Instant search and other Design fixes
 -----------------------------------------------------------------------------------------
 /functions.php
 /css/style.css
@@ -970,7 +970,7 @@ FIX - ie 9 gallery prev next arrow issue
 /library/front-style.php
 
 -----------------------------------------------------------------------------------------
-Insert primary and secondary menu in auto install and dismiss button for auto 
+Insert primary and secondary menu in auto install and dismiss button for auto
 install box
 -----------------------------------------------------------------------------------------
 /library/functions/auto_install/auto_install.php
@@ -981,7 +981,7 @@ FIX - add and remove issue from banner widget in customizer
 /library/functions/widgets.php
 
 -----------------------------------------------------------------------------------------
-Add additional widget while auto install 
+Add additional widget while auto install
 -----------------------------------------------------------------------------------------
 /library/functions/auto_install/auto_install_data.php
 
@@ -991,7 +991,7 @@ Remove taxture from customizer
 /library/admin/admin.php
 
 -----------------------------------------------------------------------------------------
-Remove content for wpautop filter on woocommerce page 
+Remove content for wpautop filter on woocommerce page
 -----------------------------------------------------------------------------------------
 /library/functions/functions.php
 
@@ -1039,7 +1039,7 @@ FIX - Query take time to load if post type is not exists
 /library/functions/functions.php
 
 -----------------------------------------------------------------------------------------
-FIX - check templatic shortcodes plugin not activate condition for include gallery 
+FIX - check templatic shortcodes plugin not activate condition for include gallery
 popup script
 -----------------------------------------------------------------------------------------
 /functions.php
@@ -1092,7 +1092,7 @@ FIX - use jquery ajax instead of javascript
 /library/functions/widgets_functions.php
 
 -----------------------------------------------------------------------------------------
-Remove conatct us form and setting of captcha for contact us from theme settings, 
+Remove conatct us form and setting of captcha for contact us from theme settings,
 instead of contact us from contact us widget will work same.
 -----------------------------------------------------------------------------------------
 /page-templates/contact-us.php
@@ -1293,7 +1293,7 @@ Fix: Category dropdown in secondory widget area not working
 Improvement: CSS and PHP code optimization
 Improvement: Replaced icon images with fontawesome icons
 ------------------------------------------------------------------------------------
-New File: 
+New File:
 /js/tmpl-animation.js
 /js/foundation.min.js
 /animation.css
@@ -1397,7 +1397,7 @@ Fix: Total listings number was not showing properly on author page
 author.php
 ------------------------------------------------------------------------------------
 
-Fix: Popular posts widget was not working when we disable the particular post type 
+Fix: Popular posts widget was not working when we disable the particular post type
 from Manage Locations section
 ------------------------------------------------------------------------------------
 library/functions/loadpopularpost.php
@@ -1479,7 +1479,7 @@ Change: Make search page compatible to show different design for different post 
 loop-search.php
 
 -----------------------------------------------------------------------------------------------------
-Change: When search from advance search without entering search key the search page title was blank, 
+Change: When search from advance search without entering search key the search page title was blank,
 include search criteria
 -----------------------------------------------------------------------------------------------
 loop-meta.php
@@ -1539,7 +1539,7 @@ library/functions/widgets.php
 4th June 2014 (Version 1.1.6)
 -------------------------------------------------------------------------------------------
 Improvement: Code optimization, made common code blocks for common structures on all pages,
-Added fastclick.js for better experience in mobile devices, 
+Added fastclick.js for better experience in mobile devices,
 Added Off canvas menu for mobile devices
 -------------------------------------------------------------------------------------
 content.php
@@ -1602,7 +1602,7 @@ Fix: Tag and Search and author widgets were not coded according to standards
 library/functions/widgets.php
 ------------------------------------------------------------------
 
-Fix: Remove extra post type link from breadcrumb when location 
+Fix: Remove extra post type link from breadcrumb when location
 manager plugin is deactivated
 Fix: Remove category slug from breadcrumb from category pages
 Fix: Search result page was not displaying the parameter passed in Where field while searching
@@ -1645,7 +1645,7 @@ Improvement: Added current city name inside breadcrumbs on relevant pages
 library/extensions/breadcrumb-trail.php
 -----------------------------------------------------------------------
 
-Fix: In Testimonial widget, Link text and Link Url option was not working 
+Fix: In Testimonial widget, Link text and Link Url option was not working
 Fix: Search widget was not appearing properly in Navigation area
 Fix: slider bottom line appearance issue
 Fix: Unnecessary border was appearing below slider widget
@@ -1672,7 +1672,7 @@ Improvement: Display After Header widget area for new custom post type
 -------------------------------------------------------------------------
 functions/theme-functions.php
 -------------------------------------------------------------------------
-Improvement: Code optimization 
+Improvement: Code optimization
 Change: Deleted /functions folder and moved its files to /library/functions/
 ----------------------------------------------------------------------------
 header.php
@@ -1732,7 +1732,7 @@ New added:/ images/menu-hover-bg.png
 
 6th March 2014 (Version 1.1.2)
 ---------------------------------------------------------------------------------------------
-New Feature: Custom.css editor in backend which will save your CSS customization in database 
+New Feature: Custom.css editor in backend which will save your CSS customization in database
 so that you will not have to worry about losing your customization with each updates
 ---------------------------------------------------------------------------------------------
 library/functions/functions.php
@@ -1797,7 +1797,7 @@ functions.php
 Fix: Display a proper title on the return page of payment gateways
 ------------------------------------------------------------------
 library/functions/context.php
------------------------------------------------------------------------- 
+------------------------------------------------------------------------
 
 Fix: Removed a deprecated function add_submenu_page while adding a main menu item
 ----------------------------------------------------------------------------------
@@ -2067,3 +2067,4 @@ Improvement: Used WP_CONTENT_DIR instead of ABSPATH/wp-content folder path
 --------------------------------------------------------------------
 Improvement: Other performance related improvements in whole theme
 --------------------------------------------------------------------
+/test for sync git vs wp server

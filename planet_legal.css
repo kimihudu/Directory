@@ -1071,7 +1071,7 @@ button.title1
         height: calc(100% + 1px);
         clear: both;
     }
-    #mega-hamburger > * {
+    #mega-hamburger.open > * {
         -webkit-transform: translateZ(0px);
     }
 

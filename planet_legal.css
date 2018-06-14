@@ -1090,12 +1090,12 @@ button.title1
 
 .container.open{
 
-    height: cal(100vh - 170px);
-    min-height: 820px;
+    height: calc(100% + 1px);;
+    min-height: 50%;
 }
 /* child for hamburger icon desktop*/
 .hamburger_icon{
-    z-index: 1000;
+    z-index: 999;
     width: 30px;
     height: 20px;
     position: relative;

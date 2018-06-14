@@ -1157,9 +1157,15 @@ button.title1
 
   #hamburger.open{
     display:block;
+    width:100%;
     font-size:0.8em;
     position: relative;
+    min-height: 100vh;
+    margin-top:10%;
+    padding-top: 1em;
+    background-color:rgba(101,115,126,1)!important;
   }
+
 
 #hamburger.open:after,
 #hamburger.open:before{
@@ -1190,14 +1196,7 @@ button.title1
 
   }
 
-#hamburger.open{
-   display: block;
-   width:100%;
-   min-height: 100vh;
-   margin-top:10%;
-   padding-top: 1em;
-   background-color:rgba(101,115,126,1)!important;
-}
+
 
 #hamburger.open .sub-hamburger{
  display:none;

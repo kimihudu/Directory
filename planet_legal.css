@@ -1052,8 +1052,9 @@ button.title1
 
 @media (max-width: 600px){
 
-    overflow-x: hidden;
-    overflow-y: scroll;
-    -webkit-overflow-scrolling: touch;
-
+    #mega-hamburger{
+        overflow-x: hidden;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
 }

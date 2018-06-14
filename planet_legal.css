@@ -1045,4 +1045,11 @@ button.title1
 }
 
 /* 614jk */
-/*test*/
+.sec_content
+{
+    padding:0em 2em 0em 2em;
+}
+.section_heading1
+{
+    font-size:2em;
+}

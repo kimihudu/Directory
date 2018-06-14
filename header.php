@@ -203,10 +203,6 @@ supreme_secondary_navigation();
 <div id="nav-secondary" class="nav_bg columns">
    <div id="menu-secondary" class="menu-container clearfix">
       <nav role="navigation" class="wrap">
-
-         <div id="menu-secondary-title">
-            Menu
-         </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
         aria-expanded="false" aria-label="Toggle navigation"><div class="animated-icon1"><span></span><span></span><span></span></div></button>
          <div class="menu" id="hamburger">

@@ -655,7 +655,7 @@ padding-bottom:0;
 
 #mega-hamburger.open > ul > li > a{
     color: #fff !important;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
     text-transform: uppercase;
 
@@ -1055,6 +1055,7 @@ button.title1
     #content{
         overflow: hidden;
     }
+
     #mega-hamburger{
         overflow-x: hidden;
         overflow-y: scroll;

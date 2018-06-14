@@ -200,9 +200,9 @@ supreme_secondary_navigation();
 
 <!-- 604lk - hamburger menu -->
 
-<div id="nav-secondary" class="nav_bg columns">
-   <div id="menu-secondary" class="menu-container clearfix">
-      <nav role="navigation" class="wrap">
+<div >
+   <div >
+      <nav class="wrap">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger" aria-controls="hamburger"
         aria-expanded="false" aria-label="Toggle navigation"><div class="hamburger_icon"><span></span><span></span><span></span></div></button>
          <div class="menu" id="hamburger">

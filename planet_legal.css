@@ -1095,7 +1095,7 @@ button.title1
 }
 /* child for hamburger icon desktop*/
 .hamburger_icon{
-    z-index: 999;
+    z-index: 99;
     width: 30px;
     height: 20px;
     position: relative;

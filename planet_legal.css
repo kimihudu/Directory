@@ -1064,7 +1064,8 @@ button.title1
 
     #mega-hamburger.open{
 
-        -webkit-overflow-scrolling: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
         overflow-x: hidden;
         overflow-y: auto;
         height: calc(100% + 1px);

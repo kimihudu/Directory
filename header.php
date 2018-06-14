@@ -292,6 +292,7 @@ supreme_secondary_navigation();
             $('.hamburger_icon').click(function(){
                 jQuery(this).toggleClass('open');
 				jQuery('#hamburger').toggleClass('open');
+				jQuery('.container').toggleClass('open');
             });
         });
 </script>

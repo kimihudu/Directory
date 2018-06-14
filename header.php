@@ -198,7 +198,7 @@ do_action( 'close_header' );
 supreme_secondary_navigation();
 ?>
 
-<!-- 604lk - hamburger menu
+<!-- 604lk - hamburger menu -->
 
 <div id="nav-secondary" class="nav_bg columns">
    <div id="menu-secondary" class="menu-container clearfix">
@@ -248,7 +248,7 @@ supreme_secondary_navigation();
         });
 </script>
 
-/604lk -->
+
 
 
 </div>

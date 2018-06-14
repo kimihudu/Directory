@@ -999,7 +999,7 @@ button.title1
   color: #fff!important;
 }
 
-#sec_firm_lawyers .sec_content .section_heading2{
+/*#sec_firm_lawyers .sec_content .section_heading2{
    display: block;
    text-align: justify;
    padding-right: 23%;
@@ -1018,7 +1018,7 @@ button.title1
 
 }
 
-/*#sec_lawyers .sec_content .section_heading2{
+#sec_lawyers .sec_content .section_heading2{
    display: block;
    text-align: justify;
    padding-right: 16%;
@@ -1043,13 +1043,15 @@ button.title1
   text-shadow:2px 2px rgba(189,189,189,1);
 
 }
-
 /* 614jk */
 .sec_content
-{
-    padding:0em 2em 0em 2em;
+{  
+    left:2%;
+    margin-top:4em;
+    line- height:1em;
+    padding:0em 1.5em 0em 1.5em;
 }
-.section_heading1
+.sec_content .section_heading1
 {
-    fo
+    font-size:2em;
 }
